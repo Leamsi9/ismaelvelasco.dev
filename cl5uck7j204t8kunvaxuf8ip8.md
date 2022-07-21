@@ -1,4 +1,4 @@
-## Tech debt: the good, the bad and the costly
+## Technical debt: the good, the bad and the costly
 
 Today we take a deep dive into technical debt: what is it, when is it good, when is it terrible, how to measure it, how to cost it, how to address it.
 
@@ -11,9 +11,9 @@ You may have noticed I added a [new Tech Talks section](https://ismaelvelasco.de
 Very often, tech debt is defined as a conscious trade off of quality for speed, or a result of poor design decisions. But while both of those are good examples of tech debt, tech debt can also come to absolutely top quality code: if it fails to evolve with the tech ecosystem. The cutting edge app of 2010 is very often the creaky, slow and plainful monolith of in 2020. It's not that the original choices were suboptimal: it's that time moves fast in tech, and code needs to constantly evolve to keep in sync.
 
 
-<h2>Technical Debt Accounting Framework</h2>
+<h2>Technical Debt Accounting Model</h2>
 
-Not all technical debt is created equal. Below is a framework you may find useful in mapping different parts of your application:
+Not all technical debt is created equal. This is a model you may find useful in mapping different parts of your application.
 
 <h3>Low Interest Technical Debt</h3>
 
@@ -27,8 +27,24 @@ High interest debt, that's risky, and much harder to pay off. Here your technica
 
 This is where your company is at existential risk because of technical debt. Your core platforms may have passed End Of Life and with widely publicised critical exploits, and you advertise this in your website headers. Your system has become so bloated and is so highly coupled that no one really knows what everything does, and everyone is afraid to change things because every change creates side-effects. Your new features grind to a halt, your devs leave, your company stagnates and loses users to more reliable competitors.
 
-So how do you rigorously measure technical debt? How do you know which specific classes are most tightly coupled or more likely to create side effects or most difficult to understand? How do you measure the impact, as opposed to the presence of technical debt on your team or company's feature development process? How do you estimate its financial cost? How do you choose which areas of the code to refactor first? How do you know when replacement is the only option?  How do you persuade the business of the need to invest in technical debt?
+<h2>Applying the Technical Debt Accounting Model</h2>
+
+So  now you have a model for understanding and categorising your technical debt, how do you rigorously measure it to know in which category any given part of your codebase falls? 
+
+How do you know which specific classes are most tightly coupled or more likely to create side effects or most difficult to understand? 
+
+How do you measure the impact, as opposed to the presence of technical debt on your team or company's feature development process? 
+
+How do you estimate its financial cost? 
+
+How do you choose which areas of the code to refactor first? 
+
+How do you know when replacement is the only option?
+
+How do you persuade the business of the need to invest in technical debt?
 
 %[https://youtu.be/McO_ONKxwNU]
 
-The talk above offers answers to these questions, and the online workshop will actually train you to apply them in practice.  If you enjoy the talk, you might want to [sign up](https://conferences.isaqb.org/software-architecture-gathering/tickets/) for the (online) workshop. Do share any feedback or suggestions for things I should clarify or add ahead of the course!
+The talk above offers answers to these questions, and the online workshop will actually train you to apply them in practice.  If you enjoy the talk, you might want to [sign up](https://conferences.isaqb.org/software-architecture-gathering/tickets/) for the (online) workshop. 
+
+Do please share any feedback or suggestions for things I should clarify or add ahead of the course!
