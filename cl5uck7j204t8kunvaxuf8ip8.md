@@ -18,23 +18,19 @@ Below is a model you may find useful in mapping different parts of your applicat
 
 <em><h3>Low Interest Technical Debt</h3>
 
-![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1658422682682/fZ52s2OKT.png align="left")
-
 Technical debt, like financial debt, can be useful, helping you enter the market and gain traction with an MVP, or allowing you to innovate, or rebuild. That's when your debt is "low interest", you understand the trade offs and the pain is in your future, with a plan to pay it back before it gets painful.
 
 <em><h3>High Interest Technical Debt</h3>
-
-![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1658422650150/2FPw5A4Kn.png align="left")
 
 High interest debt, that's risky, and much harder to pay off. Here your technical pain is not ahead but right now, and if you're nor careful, it will compound into a debt default. Technical debt now places serious operational and commercial constraints on the entire company, and creates reputational risks, from security breaches to service interruption.
 
 <em><h3>Technical Debt Default</h3>
 
-![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1658422625159/VzNd2l5oC.png align="left")
-
 This is where your company is at existential risk because of technical debt. Your core platforms may have passed End Of Life with widely publicised critical exploits, and you advertise this in your website headers. Your system has become so bloated and is so highly coupled that no one really knows what everything does, and everyone is afraid to change things because every change creates side-effects. Your new features grind to a halt, your devs leave, your company stagnates and loses users to more reliable competitors.
 
 <h2>Technical Debt Accounting</h2>
+
+%[https://youtu.be/McO_ONKxwNU]
 
 So equipped with this model for understanding and categorising your technical debt, the questions of implementation remain:
 
@@ -51,8 +47,6 @@ So equipped with this model for understanding and categorising your technical de
 - How do you know when replacement is the only option?
 
 - How do you persuade the business of the need to invest in technical debt?
-
-%[https://youtu.be/McO_ONKxwNU]
 
 The talk above offers answers to these questions, and the online workshop will actually train you to apply them in practice.  You may have noticed I added a [new Tech Talks section](https://ismaelvelasco.dev/tech-talks) (OK, no way you noticed...). It has recordings from meetups, conferences and even COP26 on a wide range of software engineering subjects. I will periodically introduce one here. 
 
