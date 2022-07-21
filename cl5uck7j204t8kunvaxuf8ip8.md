@@ -32,23 +32,25 @@ High interest debt, that's risky, and much harder to pay off. Here your technica
 
 ![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1658422625159/VzNd2l5oC.png align="left")
 
-This is where your company is at existential risk because of technical debt. Your core platforms may have passed End Of Life and with widely publicised critical exploits, and you advertise this in your website headers. Your system has become so bloated and is so highly coupled that no one really knows what everything does, and everyone is afraid to change things because every change creates side-effects. Your new features grind to a halt, your devs leave, your company stagnates and loses users to more reliable competitors.
+This is where your company is at existential risk because of technical debt. Your core platforms may have passed End Of Life with widely publicised critical exploits, and you advertise this in your website headers. Your system has become so bloated and is so highly coupled that no one really knows what everything does, and everyone is afraid to change things because every change creates side-effects. Your new features grind to a halt, your devs leave, your company stagnates and loses users to more reliable competitors.
 
 <h2>Technical Debt Accounting</h2>
 
-So  now you have a model for understanding and categorising your technical debt, how do you rigorously measure it to know in which category any given part of your codebase falls? 
+So equipped with this model for understanding and categorising your technical debt, the questions of implementation remain:
 
-How do you know which specific classes are most tightly coupled or more likely to create side effects or most difficult to understand? 
+- How do you rigorously measure it to know in which category any given part of your codebase falls? 
 
-How do you measure the impact, as opposed to the presence of technical debt on your team or company's feature development process? 
+- How do you know which specific classes are most tightly coupled or more likely to create side effects or most difficult to understand? 
 
-How do you estimate its financial cost? 
+- How do you measure the impact, as opposed to the presence of technical debt on your team or company's feature development process? 
 
-How do you choose which areas of the code to refactor first? 
+- How do you estimate its financial cost? 
 
-How do you know when replacement is the only option?
+- How do you choose which areas of the code to refactor first? 
 
-How do you persuade the business of the need to invest in technical debt?
+- How do you know when replacement is the only option?
+
+- How do you persuade the business of the need to invest in technical debt?
 
 %[https://youtu.be/McO_ONKxwNU]
 
