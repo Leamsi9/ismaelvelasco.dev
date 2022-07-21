@@ -18,17 +18,23 @@ Below is a model you may find useful in mapping different parts of your applicat
 
 <em><h3>Low Interest Technical Debt</h3>
 
+![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1658422682682/fZ52s2OKT.png align="left")
+
 Technical debt, like financial debt, can be useful, helping you enter the market and gain traction with an MVP, or allowing you to innovate, or rebuild. That's when your debt is "low interest", you understand the trade offs and the pain is in your future, with a plan to pay it back before it gets painful.
 
 <em><h3>High Interest Technical Debt</h3>
+
+![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1658422650150/2FPw5A4Kn.png align="left")
 
 High interest debt, that's risky, and much harder to pay off. Here your technical pain is not ahead but right now, and if you're nor careful, it will compound into a debt default. Technical debt now places serious operational and commercial constraints on the entire company, and creates reputational risks, from security breaches to service interruption.
 
 <em><h3>Technical Debt Default</h3>
 
+![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1658422625159/VzNd2l5oC.png align="left")
+
 This is where your company is at existential risk because of technical debt. Your core platforms may have passed End Of Life and with widely publicised critical exploits, and you advertise this in your website headers. Your system has become so bloated and is so highly coupled that no one really knows what everything does, and everyone is afraid to change things because every change creates side-effects. Your new features grind to a halt, your devs leave, your company stagnates and loses users to more reliable competitors.
 
-<h2>Applying the Technical Debt Accounting Model</h2>
+<h2>Technical Debt Accounting</h2>
 
 So  now you have a model for understanding and categorising your technical debt, how do you rigorously measure it to know in which category any given part of your codebase falls? 
 
