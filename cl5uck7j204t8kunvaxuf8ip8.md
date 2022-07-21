@@ -4,7 +4,7 @@ Today we take a deep dive into technical debt: what is it, when is it good, when
 
 %[https://youtu.be/McO_ONKxwNU]
 
-You may have noticed I added a [new Tech Talks section](ismaelvelasco.dev/tech-talks) (OK, no way you noticed). It has 15 recordings from meetups, conferences and even COP26. I will periodically introduce one here.
+You may have noticed I added a [new Tech Talks section](https://ismaelvelasco.dev/tech-talks) (OK, no way you noticed). It has 15 recordings from meetups, conferences and even COP26. I will periodically introduce one here.
 
 I decided to start with my talk on Technical Debt, because I have been selected to give a 1 day workshop on the subject in November, at one of the world's leading architecture conferences, by the world's foremost software architecture certification body. It is a genuine honour. So if you enjoy the talk, you might want to sign up 
 for the (virtual) workshop!
