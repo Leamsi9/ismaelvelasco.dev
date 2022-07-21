@@ -1,8 +1,10 @@
 ## Tech debt: the good, the bad and the costly
 
-On this blog post we take a deep dive into technical debt: what is it, when is it good, when is it terrible, how to measure it, how to cost it, how to address it.
+Today we take a deep dive into technical debt: what is it, when is it good, when is it terrible, how to measure it, how to cost it, how to address it.
 
-You may have noticed I added a [new Tech Talks section](ismaelvelasco.dev/tech-talks) (OK, no way you noticed). It has 15 recordings from meetups, conferences and even COP26. I will periodically introduce one here..
+%[https://youtu.be/McO_ONKxwNU]
+
+You may have noticed I added a [new Tech Talks section](ismaelvelasco.dev/tech-talks) (OK, no way you noticed). It has 15 recordings from meetups, conferences and even COP26. I will periodically introduce one here.
 
 I decided to start with my talk on Technical Debt, because I have been selected to give a 1 day workshop on the subject in November, at one of the world's leading architecture conferences, by the world's foremost software architecture certification body. It is a genuine honour. So if you enjoy the talk, you might want to sign up 
 for the (virtual) workshop!
@@ -22,4 +24,4 @@ This is a framework you may find useful in mapping different parts of your appli
 
 The talk explores how to apply this framework, how to measure, monitor and prioritise your technical debt, how and when to manage, fix it or replace it, and how to make the business case for investing in addressing it.
 
-I would greatly appreciate any feedback, as it will better prepare me for the workshop 
+I would greatly appreciate any feedback, as it will better prepare me for the workshop!
