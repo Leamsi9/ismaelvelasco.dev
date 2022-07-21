@@ -4,11 +4,6 @@ Today we take a deep dive into technical debt: what is it, when is it good, when
 
 ![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1658365848019/lXG6VHiRN.png align="left")
 
-You may have noticed I added a [new Tech Talks section](https://ismaelvelasco.dev/tech-talks) (OK, no way you noticed). It has 15 recordings from meetups, conferences and even COP26. I will periodically introduce one here. I decided to start with my talk on Technical Debt, because I am genuinely thrilled to have been selected to give a [1 day online workshop on the subject](https://conferences.isaqb.org/software-architecture-gathering/full-program/#advanced-technical-debt-management-the-good-the-bad-and-the-costly) in November by the [International Standard in Training and Certification of Software Architects]((https://isaqb.org/)) - probably the world's foremost software architecture certification body.  
-
-![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1658420516629/l_QMkLHE8.png align="left")
-
-To be dedicated 9 hours (there's also a follow-on talk on [Modernising Monoliths](https://conferences.isaqb.org/full-program/#modernizing-monoliths-principles-patterns-risks-and-roadmaps)) at one of the world's [leading architecture conferences](https://conferences.isaqb.org/software-architecture-gathering/), at the invitation of such a literal standard setter, feels humbling, exciting and challenging, all at the same time.
 
 <h2>So what is tech debt?</h2>
 
@@ -49,6 +44,15 @@ How do you persuade the business of the need to invest in technical debt?
 
 %[https://youtu.be/McO_ONKxwNU]
 
-The talk above offers answers to these questions, and the online workshop will actually train you to apply them in practice.  If you enjoy the talk, you might want to [sign up](https://conferences.isaqb.org/software-architecture-gathering/tickets/) for the (online) workshop. 
+The talk above offers answers to these questions, and the online workshop will actually train you to apply them in practice.  You may have noticed I added a [new Tech Talks section](https://ismaelvelasco.dev/tech-talks) (OK, no way you noticed...). It has recordings from meetups, conferences and even COP26 on a wide range of software engineering subjects. I will periodically introduce one here. 
 
-Do please share any feedback or suggestions for things I should clarify or add ahead of the course!
+I started with Technical Debt, because I am genuinely thrilled to have been selected to give a [1 day online workshop on the subject](https://conferences.isaqb.org/software-architecture-gathering/full-program/#advanced-technical-debt-management-the-good-the-bad-and-the-costly) in November by the [International Standard in Training and Certification of Software Architects]((https://isaqb.org/)) - probably the world's foremost software architecture certification body.  
+
+![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1658420516629/l_QMkLHE8.png align="left")
+
+To be dedicated 9 hours (there's also a follow-on talk on [Modernising Monoliths](https://conferences.isaqb.org/full-program/#modernizing-monoliths-principles-patterns-risks-and-roadmaps)) at one of the world's [leading architecture conferences](https://conferences.isaqb.org/software-architecture-gathering/), at the invitation of such a literal standard setter, feels humbling, exciting and challenging, all at the same time.
+
+
+If you enjoy the talk, you might want to [sign up](https://conferences.isaqb.org/software-architecture-gathering/tickets/) for the (online) workshop. Do please share any feedback on this blog post or the talk above, and suggestions for things I should clarify or add ahead of the course. 
+
+Also check out the entire conference and training days, there are some really fantastic talks in the programme!
