@@ -1,4 +1,4 @@
-## Green Mode Design Through Graceful Degradation
+## 1. Green Mode Design Through Graceful Degradation
 
 Wouldn't it be great if you could toggle green mode on the websites you consume and greatly lower your CO2 emissions, make your battery last longer and extend the life of your devices?
 
