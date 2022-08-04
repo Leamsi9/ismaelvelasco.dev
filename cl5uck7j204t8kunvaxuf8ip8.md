@@ -1,4 +1,4 @@
-## Technical debt: the good, the bad and the costly
+## If You Treated Technical Debt Like You Do Financial Debt... How Would You Measure Your Risk of Going Under?
 
 Today we take a deep dive into technical debt: what is it, when is it good, when is it terrible, how to measure it, how to cost it, how to address it.
 
