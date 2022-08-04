@@ -2,7 +2,7 @@
 
 In the second of the Green Mode Design series, I will move from the general design concept outlined in Part 1 to a first proposal on how it may be implemented by the four key constituencies: devs, consumers, browser vendors, and web standards/specification bodies.
 
-### Green Mode Design vs Green By Default
+<h2>Green Mode Design vs Green By Default </h2>
 
 Before that I want to emphasise again that Green Mode Design, integrating both, "graceful degradation" and "user control and freedom", is not a replacement for [green by default](https://screenspan.net/blog/green-by-default/) design.  We should absolutely try and ensure that our products are as climate friendly as possible, before a user ever engages with our app. This is a space where not only developers but specially browsers and standards have a key role to play.
 
@@ -24,7 +24,7 @@ This means that emission reductions do not have to wait for sufficient negative 
 
 Just one powerful green mode browser extension gaining traction across major browsers could potentially have a significant impact on both, emissions, and consumer awareness and behaviour. 
 
-### What would Green Mode implementation actually look like?
+<h2> What would Green Mode implementation actually look like? </h2>
 
 There are many vectors out there that could be part of green mode design, but I think they could be integrated into 4 customisable modes and intensities of green mode design:
 
@@ -43,7 +43,7 @@ There are many vectors out there that could be part of green mode design, but I 
 
 - customisable default triggers for switching between 1-3 (High CPU, high daily CO2 consumption, full screen mode (degrade all other tabs), non-green cloud host detected, high CO2 website, time of day (this could link to focus mode design thinking).
 
-### What can be done already?
+<h2> What can be done already? </h2>
 
 1) Consumers can achieve most of the above client side via [browser extensions](https://github.com/Leamsi9/awesome-green-extensions/blob/main/README.md), but obviously it will be less seamless with more overhead than at the developer level, particularly in the absence of a Green Mode app that integrates all 4 levels in a comprehensive way.
 
@@ -57,7 +57,7 @@ The only example I have come across (do you know any more?) of implementing all 
 
 ![BranchMagazine.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1659458532368/ebGAep_dx.png align="left")
 
-### What cannot be done yet?
+<h2> What cannot be done yet? </h2>
 
 3) Browsers could but are yet to implement much more comprehensive green mode features than [Edge's energy efficient mode](https://lifehacker.com/what-is-microsoft-edges-efficiency-mode-and-how-can-yo-1848666190), which itself is yet to be replicated by competitors. 
 
@@ -78,11 +78,11 @@ The only example I have come across (do you know any more?) of implementing all 
 
 - Green certifications could be mainstreamed and integrated into things like Amazon's Green Pledge certification and other impact multipliers.
 
-### Where to next?
+<h2> Where to next? </h2>
 
 At the moment the 4 key constituents (consumers, devs, browsers and standards) are at different places in this design trajectory.
 
-* Consumers *
+<h3> Consumers </h3>
 I suspect consumers are proportionally and numerically the furthest in commitment, but lack the means to express it technologically in the web space.
 
 Green marketing and even green washing are successful because consumer demand is real. So a browser extension could be the most rapidly scalable win, with the most downstream impacts. 
@@ -91,7 +91,7 @@ If there is evidence of demand, it follows that software conventions and web and
 
 The biggest limitation in this area is the fact that browser extensions do not work on mobile.
 
-* Developers *
+<h3> Developers </h3>
 
 Assuming the [statistics](https://www.pewresearch.org/global/2021/09/14/in-response-to-climate-change-citizens-in-advanced-economies-are-willing-to-alter-how-they-live-and-work/) on people's readiness to make changes to protect the climate, I estimate that there are c.9 million developers waiting for the right messaging, tooling and behavioural nudging to implement greener software and design practices, particularly among younger ones.
 
@@ -104,7 +104,7 @@ Gaining support for incentivising green software in key platforms, from the big 
 
 Above all, it means systematic efforts to incorporate green approaches and perspectives, including Green Mode design, into the junior developer pipelines at scale. Computer Science and adjacent university curricula, bootcamp curricula, popular webdev trainers on YouTube, Udemy, etc, and professional development gateways like Pluralsight, or accreditation bodies like ISAQB.
 
-* Browsers *
+<h3>Browsers </h3>
 
 The most impactful space for Green Mode design is probably at the browser level. Given the [acceleration of sustainable consumption patterns and priorities](https://www2.deloitte.com/uk/en/pages/consumer-business/articles/sustainable-consumer.html) this could be a source of competitive advantage and traction.
 
@@ -116,7 +116,7 @@ Extending at least green extensions/plugins functionality to the mobile browser 
 
 I believe sustainability discussions are ongoing in many browser companies.  These need to deepen, widen and be more publicly visible, and bodies like the Green Software Foundation and the UN ITU could play a role in thus.
 
-* Standards and Specifications *
+<h3>Standards and Specifications</h3>
 
 ![UN-digital-agenda.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1659458949241/gX7Qvua_s.png align="left")
 
