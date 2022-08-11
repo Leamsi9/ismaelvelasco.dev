@@ -72,7 +72,7 @@ Could but are yet to implement much more comprehensive green mode features than 
 
 ![microsoft-edge-efficiency-mode.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1659459381552/Br-t4xVMW.png align="left")
 
-### 4 Standards
+### 4 Standards and specifications
 The other potentially game changing element that is yet to land, would be specifications and standards to integrate both, green by default, and green mode by default.
 
 - Sites that conform to green and green mode standards could be prioritised by search engines and similar incentives, as is the case with Accessibility.
