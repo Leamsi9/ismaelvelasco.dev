@@ -2,21 +2,17 @@
 
 Wouldn't it be great if you could toggle green mode on the websites you consume and greatly lower your CO2 emissions, make your battery last longer and extend the life of your devices?
 
-<h2>What is Green Mode design?</h2>
+## What is Green Mode design?
 
 What I'm choosing to call ***Green Mode design*** is the combination of two UX principles: 
-<ol>
-<li>
-[user control and freedom](https://www.nngroup.com/articles/user-control-and-freedom/): allowing users to control their experience of the system while providing means to undo their selections.
-</li>
-<li>
-[graceful degradation](https://www.techtarget.com/searchnetworking/definition/graceful-degradation): the ability of a system to degrade its performance without affecting its core functionality.
-</li>
-</ol>
+
+- [user control and freedom](https://www.nngroup.com/articles/user-control-and-freedom/): allowing users to control their experience of the system while providing means to undo their selections.
+
+- [graceful degradation](https://www.techtarget.com/searchnetworking/definition/graceful-degradation): the ability of a system to degrade its performance without affecting its core functionality.
 
 So Green Mode design could be defined as:
 
-<em>**giving users a reversible option for degraded but still functional performance in exchange for reduced emissions and longer device life.**</em>
+** giving users a reversible option for degraded but still functional performance in exchange for reduced emissions and longer device life. **
 
 It surprises me that I have so far only found a single website (do you know of any others?) with a `green mode` toggle: https://theorganicagency.com/our-website-green-mode.
 
@@ -24,10 +20,10 @@ It surprises me that I have so far only found a single website (do you know of a
 
 I would have thought there would be hundreds if not thousands of examples, given we learned the art of "graceful degradation" well over a decade ago, and so many of us deeply care about climate change.
 
-<h2>The rise and fall of graceful degradation</h2>
+## The rise and fall of graceful degradation
 Graceful degradation, in web development, generally means that you build your site to take advantage of all the features of the [web APIs](https://developer.mozilla.org/en-US/docs/Web/API) supported by the latest browsers, but also create fallbacks for people using older browsers or devices. 
 
-<p>Interest in graceful degradation peaked around 2011, because the difference in CSS and Javascript support between browsers was massive, particularly with Internet Explorer 8, which had the least functionality and the largest market share.</p>
+Interest in graceful degradation peaked around 2011, because the difference in CSS and Javascript support between browsers was massive, particularly with Internet Explorer 8, which had the least functionality and the largest market share.
 
 
 This meant that every website had to cater to both, the shiny new kid on the block who excelled at gymnastics (Chrome would edge out Internet Explorer by 2012), and the less than athletic grandparent who controlled the PCs. 
@@ -35,7 +31,6 @@ This meant that every website had to cater to both, the shiny new kid on the blo
 ![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1657747979009/UivY5wDC-.png align="left")
 
 To grow and retain your website's user base, therefore, it became common practice to create a high performance version with a low performance fallback for laggards. 
-
 
 To experience a good example of graceful degradation, if you have access to gmail, go to your inbox on the browser, and once there, [disable javascript](https://www.technewstoday.com/how-to-enable-disable-javascript/). You will get an option to view your mailbox in html only. Accept and behold graceful degradation in action.
 
@@ -49,11 +44,9 @@ After:
 
 As the web api became more standardised, and browsers more interchangeable, graceful degradation largely faded from developer discourse, as an artefact of an earlier, more painful era. 
 
-
 You could now safely let rip and flex your web muscles. Which of course also meant that we were pretty much responsible for exponentially increasing planetary emissions, with more and more powerful applications requiring more and more energy and imposing faster and faster hardware obsolescence and waste.
 
-
-<h2>Implementing Green Mode Design</h2>
+## Implementing Green Mode Design
 
 Many of us are familiar with the [eco mode](https://www.cars.com/articles/what-is-eco-mode-440386) option in cars. When enabled, the system modulates things like air conditioning, heated seats or other functions to take away pressure from the engine. 
 
@@ -67,11 +60,11 @@ Similarly, you might not choose graceful degradation on a website for high end g
 
 But for day to day use, you probably don't need all the animations, background videos, images and trackers when reading articles, listening to music on YouTube in the background or aimlessly procrastinating.
 
-<h2>Will the real slim browsers please stand up?</h2>
+## Will the real slim browsers please stand up?
 
 If the option for excluding such "extras" when requesting web pages was a standard feature available to the 5 billion people that use browsers, the impact of even fractional adoption would reduce global emissions in a noticeable way.
 
-<p>And yet, compared to consumer electronics, the web ecosystem has been slow on the uptake, to put it politely. Green Mode Design (in practice if not in name) is fast becoming standard in consumer devices, with eco mode an option from wearables to laptops, mobile phones to whole smart houses.</p>
+And yet, compared to consumer electronics, the web ecosystem has been slow on the uptake, to put it politely. Green Mode Design (in practice if not in name) is fast becoming standard in consumer devices, with eco mode an option from wearables to laptops, mobile phones to whole smart houses.</p>
 
 ![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1657738250753/Kl1CFOz2s.png align="center")
 
@@ -85,20 +78,19 @@ It is a bit bizarre then for the web to be so far behind this curve, when there 
 
 Does that mean that `green mode` is largely impossible for responsible consumers?
 
-<h2>Hacking Green Mode on the user side</h2>
+## Hacking Green Mode on the user side
 
 While there is no native, comprehensive tool to achieve meaningful and customisable green mode in browsing the web, there are ways to "hack" a green mode approximation for responsible net surfers thanks to the efforts of enterprising devs in the browser extension ecosystem. I have already name checked Tab Suspender:
 
-<p>
 ![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1657734345846/rYa8WZjaT.png align="center")
-</p>
+
 As you can see you can create powerful rules. As a pathological multi-tabber (if multi-tabbing was a sport, I'd have a shot at the Olympics), this has been a godsend. After my chosen interval, the tab goes completely inactive, while its ghost remains ready to come alive on my return:
 
 ![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1657734480633/iNsOR2XRyI.png align="left")
 
 My CPU and ram usage has, since I added the extension, been very dramatically reduced. 
 
-<p>Other extensions allow you to block (not hide) adverts from youtube videos; block (not hide) videos from youtube, only streaming the sound, which is great if you use youtube for music or podcasts.</p>
+Other extensions allow you to block (not hide) adverts from youtube videos; block (not hide) videos from youtube, only streaming the sound, which is great if you use youtube for music or podcasts.
 
 Yet more extensions allow you to disable JavaScript with a quick toggle on a single page (as opposed to the browser as a whole in the settings). 
 
@@ -111,10 +103,7 @@ I hope to devote a separate blog post to this extension ecosystem.
 
 It has inspired me to set myself the goal, this year, to create an open source "green mode" extension, that integrates all of these features and more in a granular way. 
 
-
-
-
-<h2>Reclaiming Graceful Degradation for Green Mode web design</h2>
+## Reclaiming Graceful Degradation for Green Mode web design
 
 Instead of designing fallbacks for antiquated browsers, like we used to as standard practice, web developers could design fallbacks for user facing "green mode" toggles, which should be present in every web application we're responsible for. 
 
@@ -128,7 +117,7 @@ https://tinyurl.com/sweary-but-ecofriendly
 
 With less extreme options in between.
 
-<h2>Call to action </h2>
+## Call to action 
 
 
 ![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1657763615406/qwwxQkxzI.png align="center")
