@@ -44,12 +44,14 @@ Customisable default triggers for switching between 1-3 (High CPU, high daily CO
 
 ## What can be done already?
 
-### 1) Consumers can achieve most of the above client side via [browser extensions](https://github.com/Leamsi9/awesome-green-extensions/blob/main/README.md), but obviously it will be less seamless with more overhead than at the developer level, particularly in the absence of a Green Mode app that integrates all 4 levels in a comprehensive way.
+### 1) Consumers 
+Can achieve most of the above client side via [browser extensions](https://github.com/Leamsi9/awesome-green-extensions/blob/main/README.md), but obviously it will be less seamless with more overhead than at the developer level, particularly in the absence of a Green Mode app that integrates all 4 levels in a comprehensive way.
 
 
 ![chrome-extensions.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1659458392197/hPK3-_i0y.png align="left")
 
-### 2 Developer side we have all the tools to implement optional graceful degradation, like client caching both high performance and low fi versions of sites in the client (a bit like the prerendering used already in SPAs to serve crawlers and users different versions). You could also design every app and specially page for graceful degradation to work with low or no js. A lot of accessibility design would also be pertinent. And give your users high, mid and low performance options, plus smart mode, on your UI.  
+### 2 Developers 
+Have all the tools to implement optional graceful degradation, like client caching both high performance and low fi versions of sites in the client (a bit like the prerendering used already in SPAs to serve crawlers and users different versions). You could also design every app and specially page for graceful degradation to work with low or no js. A lot of accessibility design would also be pertinent. And give your users high, mid and low performance options, plus smart mode, on your UI.  
 
 The only example I have come across (do you know any more?) of implementing all 4 modes I propose here is the fantastic [branch magazine](https://branch.climateaction.tech/) site. There is more graceful degradation options that could be added to each of Branch magazine's 4 modes in terms of user control and freedom, but this is a fantastic illustration of the design concept I'm proposing.
 
@@ -58,7 +60,8 @@ The only example I have come across (do you know any more?) of implementing all 
 
 ## What cannot be done yet?
 
-### 3 Browsers could but are yet to implement much more comprehensive green mode features than [Edge's energy efficient mode](https://lifehacker.com/what-is-microsoft-edges-efficiency-mode-and-how-can-yo-1848666190), which itself is yet to be replicated by competitors. 
+### 3 Browsers 
+Could but are yet to implement much more comprehensive green mode features than [Edge's energy efficient mode](https://lifehacker.com/what-is-microsoft-edges-efficiency-mode-and-how-can-yo-1848666190), which itself is yet to be replicated by competitors. 
 
 - If we could enable service worker type caching on the client side, with the same core strategies available, that could potentially have large impacts on data consumption and computer usage. If you could for instance toggle a feature that implements stale while revalidate strategies if no similar service workers are active from the site itself, you could drastically reduce web traffic and consumption.
 
@@ -69,7 +72,8 @@ The only example I have come across (do you know any more?) of implementing all 
 
 ![microsoft-edge-efficiency-mode.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1659459381552/Br-t4xVMW.png align="left")
 
-### 4 The other potentially game changing element that is yet to land, would be specifications and standards to integrate both, green by default, and green mode by default.
+### 4 Standards
+The other potentially game changing element that is yet to land, would be specifications and standards to integrate both, green by default, and green mode by default.
 
 - Sites that conform to green and green mode standards could be prioritised by search engines and similar incentives, as is the case with Accessibility.
 
