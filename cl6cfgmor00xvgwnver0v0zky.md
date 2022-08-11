@@ -2,7 +2,7 @@
 
 In the second of the Green Mode Design series, I will move from the general design concept outlined in Part 1 to a first proposal on how it may be implemented by the four key constituencies: devs, consumers, browser vendors, and web standards/specification bodies.
 
-##Green Mode Design vs Green By Default 
+## Green Mode Design vs Green By Default 
 
 Before that I want to emphasise again that Green Mode Design, integrating both, "graceful degradation" and "user control and freedom", is not a replacement for [green by default](https://screenspan.net/blog/green-by-default/) design.  We should absolutely try and ensure that our products are as climate friendly as possible, before a user ever engages with our app. This is a space where not only developers but specially browsers and standards have a key role to play.
 
@@ -28,20 +28,19 @@ Just one powerful green mode browser extension gaining traction across major bro
 
 There are many vectors out there that could be part of green mode design, but I think they could be integrated into 4 customisable modes and intensities of green mode design:
 
-### 1) *climate aware*
+### 1 *climate aware*
+Client side optimisation without degradation (e.g. unused tab suspension, climate aware metrics/monitoring, ad/tracker blocking/service worker enabled intelligent caching).
 
-- client side optimisation without degradation (e.g. unused tab suspension, climate aware metrics/monitoring, ad/tracker blocking/service worker enabled intelligent caching).
+### 2 *climate friendly*
+Graceful degradation of performance (e.g. all the above + more aggressive service worker caching; blocked image or videos by default, clicking on an image link displays it in a customisable default low-fi quality; clicking on a video link defaults to podcast mode (sound only), or even reader mode (transcript only). 
 
-### 2) *climate friendly*
-- graceful degradation of performance (e.g. all the above + more aggressive service worker caching; blocked image or videos by default, clicking on an image link displays it in a customisable default low-fi quality; clicking on a video link defaults to podcast mode (sound only), or even reader mode (transcript only). 
+### 3 *climate first*
 
-### 3) *climate first*
+Maximum graceful degradation without loss of core functionality ( "print mode", no javascript, minimal css, maximum backward device compatibility,  accessibility options (e.g. only text to speech including alt for images, and no other visuals; change font colour or size, etc - this + backward compatibility increases climate resilience)
 
-- maximum graceful degradation without loss of core functionality ( "print mode", no javascript, minimal css, maximum backward device compatibility,  accessibility options (e.g. only text to speech including alt for images, and no other visuals; change font colour or size, etc - this + backward compatibility increases climate resilience)
+### 4 *smart mode*
 
-### 4) *smart mode*
-
-- customisable default triggers for switching between 1-3 (High CPU, high daily CO2 consumption, full screen mode (degrade all other tabs), non-green cloud host detected, high CO2 website, time of day (this could link to focus mode design thinking).
+Customisable default triggers for switching between 1-3 (High CPU, high daily CO2 consumption, full screen mode (degrade all other tabs), non-green cloud host detected, high CO2 website, time of day (this could link to focus mode design thinking).
 
 ## What can be done already?
 
@@ -50,7 +49,7 @@ There are many vectors out there that could be part of green mode design, but I 
 
 ![chrome-extensions.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1659458392197/hPK3-_i0y.png align="left")
 
-### 2) Developer side we have all the tools to implement optional graceful degradation, like client caching both high performance and low fi versions of sites in the client (a bit like the prerendering used already in SPAs to serve crawlers and users different versions). You could also design every app and specially page for graceful degradation to work with low or no js. A lot of accessibility design would also be pertinent. And give your users high, mid and low performance options, plus smart mode, on your UI.  
+### 2 Developer side we have all the tools to implement optional graceful degradation, like client caching both high performance and low fi versions of sites in the client (a bit like the prerendering used already in SPAs to serve crawlers and users different versions). You could also design every app and specially page for graceful degradation to work with low or no js. A lot of accessibility design would also be pertinent. And give your users high, mid and low performance options, plus smart mode, on your UI.  
 
 The only example I have come across (do you know any more?) of implementing all 4 modes I propose here is the fantastic [branch magazine](https://branch.climateaction.tech/) site. There is more graceful degradation options that could be added to each of Branch magazine's 4 modes in terms of user control and freedom, but this is a fantastic illustration of the design concept I'm proposing.
 
@@ -59,7 +58,7 @@ The only example I have come across (do you know any more?) of implementing all 
 
 ## What cannot be done yet?
 
-### 3) Browsers could but are yet to implement much more comprehensive green mode features than [Edge's energy efficient mode](https://lifehacker.com/what-is-microsoft-edges-efficiency-mode-and-how-can-yo-1848666190), which itself is yet to be replicated by competitors. 
+### 3 Browsers could but are yet to implement much more comprehensive green mode features than [Edge's energy efficient mode](https://lifehacker.com/what-is-microsoft-edges-efficiency-mode-and-how-can-yo-1848666190), which itself is yet to be replicated by competitors. 
 
 - If we could enable service worker type caching on the client side, with the same core strategies available, that could potentially have large impacts on data consumption and computer usage. If you could for instance toggle a feature that implements stale while revalidate strategies if no similar service workers are active from the site itself, you could drastically reduce web traffic and consumption.
 
@@ -70,7 +69,7 @@ The only example I have come across (do you know any more?) of implementing all 
 
 ![microsoft-edge-efficiency-mode.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1659459381552/Br-t4xVMW.png align="left")
 
-### 4) The other potentially game changing element that is yet to land, would be specifications and standards to integrate both, green by default, and green mode by default.
+### 4 The other potentially game changing element that is yet to land, would be specifications and standards to integrate both, green by default, and green mode by default.
 
 - Sites that conform to green and green mode standards could be prioritised by search engines and similar incentives, as is the case with Accessibility.
 
