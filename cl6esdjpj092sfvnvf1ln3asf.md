@@ -1,8 +1,12 @@
 ## Could AsyncApi Make A Dent on Climate Change?
 
+## Can an API specification really change the world?
+
 It may at first sight seem like linking an emergent API specification to [the biggest existential challenge of our time](https://www.theguardian.com/environment/2021/nov/01/david-attenborough-urges-leaders-at-cop26-to-be-motivated-by-hope-not-fear) would be like asking whether a new format for restaurant menus might impact on the [global obesity epidemic](https://www.worldobesity.org/news/one-billion-people-globally-estimated-to-be-living-with-obesity-by-2030).
 
 A closer look however suggests the AsyncApi specification, by accelerating and optimising event driven APIs, could help significantly reduce global emissions, in turn increasing our chances of impactful course correction. Let's break it down. 
+
+## Calculating the carbon footprint of API traffic
 
 CISCO [estimates](https://www.networkworld.com/article/3323063/cisco-predicts-nearly-5-zettabytes-of-ip-traffic-per-year-by-2022.html) that by 2022 a gargantuan 4.8 zettabytes of data will be transferred over IP addresses. More than all data transferred in the previous 32 years since the Internet was launched. 
 
@@ -21,6 +25,8 @@ But what kind of APIs? In 2020 Smartbear's State Of API Report estimated 82% of 
 
 Which gets us closer to AsyncApi!
 
+## The green potential of event driven architecthure
+
 Increasingly, there is a shift from command driven, to event driven architectures, where instead of waiting for a specific command to trigger a behaviour, that behaviour is tied and automated asynchronously to changes in conditions, that is to say, events. This has huge potential and possibilities, which is why it is growing so rapidly as an architectural paradigm. Gartner projected that by the end of this year (2022) 
 
 - Event notifications will form part of over 60% of new digital business solutions.
@@ -29,6 +35,9 @@ Increasingly, there is a shift from command driven, to event driven architecture
 - Most leading providers of application platforms will include high-productivity tools for event-driven design.
 
 The environmental potential of switching from traditional REST APIs and similar command-request approaches, is that you can tie behaviour and consumption to climate aware triggers. You could apply graceful degradation when the grid is not running on renewables, and full performance when it is. You could have an IoT device automatically switch to low energy mode when it doesn't require constant activation. Instead of relying on people to remember to turn off lights or devices, they could be switched on and off upon detecting the user's presence or absence. Indeed, such architectures underpin most smart devices.
+
+
+## The role of AsyncApi in greening event-driven communication
 
 One of the greatest barriers to adoption of this paradigm, which could significantly cut into the amount of data transferred and energy consumed by the internet, is the historic absence of a common language to facilitate interoperability. This is where AsyncAPI (finally!) comes in. It provides a standard and a language to describe event based, asynchronous communication, greatly enabling not just inter-api communication, but also drastically cutting developer design and implementation time, by making possible a wide range of automations, akin to the more familiar OpenApi.  Such a common language acts as a universal translator, which allows the emergence of a network of devices, workflows and tools attuned to one another in an emergent, inductive way.
 
