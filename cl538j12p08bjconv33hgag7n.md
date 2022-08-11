@@ -10,7 +10,7 @@ Everyone tells you to cut down on flying, but [who](https://theshiftproject.org/
 
 Still, we're not fatalists, we're software engineers: problem solving is what we do. Every week we get to feel like crime scene investigators, obviously doomed idiots, and certified geniuses, twice over. In a single day.
 
-![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1656871623326/1MSnIORpO.png align="center") 
+![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1656871623326/1MSnIORpO.png?height=1200&width=675&align="center") 
 
 Being responsible for so many emissions, counter-intuitively also gives us an extraordinary opportunity for postive inpact. 
 
@@ -18,28 +18,25 @@ Given the scale of much of what we work on, if just a small percent of us commit
 
 Still, if you're like me, you may be willing, but not know how to start. Green web patterns are not yet regularly discussed in the spaces where devs can be spotted in the wild. 
 
-
-![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1656962216192/a0TxogwHS.png align="center")
+![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1656962216192/a0TxogwHS.png?height=1200&width=675&align="center")
 
 So here are some resources that might help get you started.
 
 The green web journey began for me when I stumbled across [this fantastic blog post](https://phil.tech/2020/tech-climate) by Phil Sturgeon of *Build APis You Don't Hate* fame.
 
-
-[![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1656963818217/W6teyuJN_.png align="center")](https://phil.tech/2020/tech-climate)
+![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1656963818217/W6teyuJN_.png?height=1200&width=675&align="center")
 
 Soon after, I was invited to organise a panel and present at COP26+ on [Engineering and Climate Change: Remaking the Future](https://m.youtube.com/watch?v=SXzKvNUKpxg&t=28) at the invitation of the International Environment Forum. 
 
 
-[![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1656963243006/ubOR8N83E.png align="center")](https://m.youtube.com/watch?v=SXzKvNUKpxg&t=28)
+![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1656963243006/ubOR8N83E.png?height=1200&width=675&align="center")
 
-I instantly thought of Phil, who graciously agreed to join me, and two other superb speakers, on what proved to be an insightful and empowering exchange.  The experience made me aware of the power of engineering communities to both inform, and motivate, and I set about looking for the best one in the tech space. 
+The experience made me aware of the power of engineering communities to both inform, and motivate, and I set about looking for the best one in the tech space. 
 
 I am confident I found it in https://ClimateAction.tech. 
 They have built a fantastic and impactful green tech community, including many of the pioneers and leading voices in the green software movement. 
 
-
-![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1656962428632/BHQNzih4Z.png align="center")
+![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1656962428632/BHQNzih4Z.png?height=1200&width=675&align="center")
 
 From their website you can join the [Slack group](https://docs.google.com/forms/d/e/1FAIpQLSdtvNeUkNkPybk9_Ln5klL1RUPHUCwfK4OfF-odRWnHME9d-g/viewform) which is probably the best single place to keep track of developments, network with fellow travellers and ask questions.
 
@@ -49,7 +46,7 @@ The [Green Software Foundation](https://greensoftware.foundation) and its podcas
 
 Gaël Duez' podcast [Green I/O](https://open.spotify.com/show/5inTsYpe1AZeCmLbLDjPx6)
 
-![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1656962544528/3KRLQJK6U.png align="center")
+![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1656962544528/3KRLQJK6U.png?height=1200&width=675&align="center")
 
 The Well Architected Framework's [Sustainability Pillar](https://aws.amazon.com/blogs/aws/sustainability-pillar-well-architected-framework)
 
@@ -68,6 +65,6 @@ It just so happens that [what's required](https://www.awwwards.com/how-to-delive
 
 You may not have thought about the emissions side too much to date, but I suspect you  already know a thing or two about performance optimisation, api design, caching, and graceful degradation.
 
-![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1656962739303/A30s2Ry3K.png align="center")
+![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1656962739303/A30s2Ry3K.png?height=1200&width=675&align="center")
 
 Which means you're set to go on your green journey, equipped with a community, good resources, and your own accumulated, growing skill.
