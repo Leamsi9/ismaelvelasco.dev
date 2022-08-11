@@ -26,17 +26,16 @@ The green web journey began for me when I stumbled across [this fantastic blog p
 
 ![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1656963818217/W6teyuJN_.png?height=1200&width=675&align="center")
 
-Soon after, I was invited to organise a panel and present at COP26+ on [Engineering and Climate Change: Remaking the Future](https://m.youtube.com/watch?v=SXzKvNUKpxg&t=28) at the invitation of the International Environment Forum. 
+This led me to the [awesome earth](https://github.com/philsturgeon/awesome-earth) collection, a catalogue of all the tools and ideas you might want to start with.
 
+Soon after, I was invited to organise a panel and present at COP26+ on [Engineering and Climate Change: Remaking the Future](https://m.youtube.com/watch?v=SXzKvNUKpxg&t=28) at the invitation of the International Environment Forum. 
 
 ![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1656963243006/ubOR8N83E.png?height=1200&width=675&align="center")
 
 The experience made me aware of the power of engineering communities to both inform, and motivate, and I set about looking for the best one in the tech space. 
 
-I am confident I found it in https://ClimateAction.tech. 
+I am confident I found it in [ClimateAction.tech](https://ClimateAction.tech). 
 They have built a fantastic and impactful green tech community, including many of the pioneers and leading voices in the green software movement. 
-
-![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1656962428632/BHQNzih4Z.png?height=1200&width=675&align="center")
 
 From their website you can join the [Slack group](https://docs.google.com/forms/d/e/1FAIpQLSdtvNeUkNkPybk9_Ln5klL1RUPHUCwfK4OfF-odRWnHME9d-g/viewform) which is probably the best single place to keep track of developments, network with fellow travellers and ask questions.
 
@@ -50,7 +49,6 @@ Gaël Duez' podcast [Green I/O](https://open.spotify.com/show/5inTsYpe1AZeCmLbLD
 
 The Well Architected Framework's [Sustainability Pillar](https://aws.amazon.com/blogs/aws/sustainability-pillar-well-architected-framework)
 
-And resources like [awesome earth](https://github.com/philsturgeon/awesome-earth) and
 https://www.cloudcarbonfootprint.org
 
 As to the skillset involved in environmentally aware software, I suspect you'll find you already have a strong foundation. 
