@@ -1,4 +1,4 @@
-## How many emissions are in a gigabyte of data?
+## How many emissions in a gigabyte of data?
 
 ## The Big Picture
 
@@ -101,7 +101,7 @@ You can see how they use the UK grid api to measure intensity in this simple Jav
 
 Another implementation would be https://codecarbon.io/ which is more granular and calculates not just the emissions of your website or application in aggregate, but of your actual code, in accordance with grid intensity. This allows you to create carbon aware queueing jobs, which basically allocate the most computing intensive jobs to the lowest grid intensity times.
 
-## Track to improve. Gradually refine
+## Track to improve, gradually refine
 
 So is there then one answer to the question of how many CO2 emissions are in 1 GB we can use as a consitent metric? Alas no. Which is to say, tools like [Ecograder](ecograder.com) in my first posts give you a nice starting point to benchmark and communicate your progress, but if you want to be thorough and maximally impactful, you need to drill down much more in both your measurements and implementations, with the tools and examples I've offered. 
 
