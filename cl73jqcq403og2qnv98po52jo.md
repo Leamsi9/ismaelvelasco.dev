@@ -106,3 +106,9 @@ Another implementation would be https://codecarbon.io/ which is more granular an
 So is there then one answer to the question of how many CO2 emissions are in 1 GB we can use as a consitent metric? Alas no. Which is to say, tools like [Ecograder](ecograder.com) in my first posts give you a nice starting point to benchmark and communicate your progress, but if you want to be thorough and maximally impactful, you need to drill down much more in both your measurements and implementations, with the tools and examples I've offered. 
 
 The most important thing, of course, is that whatever metrics and tools you choose, quick and dirty or orchestrated and precise, they help you surface your direction of travel in emissions, and empower you to reduce them month on month, year on year.
+
+### What you can do
+
+If you are keen on being an environmentally responsible technologist, but you're not sure where to start, head over to my [pinned blog post](https://ismaelvelasco.dev/green-software-intro) which will give you a toolkit to start or advance this journey.
+
+Each of us can have disproportionate impact, because the technologies we work on tend to affect thousands, and sometimes millions of people.  So every one of us who tweaks a product in a climate friendly way, can add up to a collective contribution that actually makes a difference.
