@@ -102,7 +102,7 @@ Another implementation would be [Code Carbon](https://codecarbon.io/) which is m
 
 ## Track to improve, gradually refine
 
-So is there then one answer to the question of how many CO2 emissions are in 1 GB we can use as a consitent metric? 
+So is there then one answer to the question of how many CO2 emissions are in 1 GB we can use as a consistent metric? 
 
 Alas no. 
 
