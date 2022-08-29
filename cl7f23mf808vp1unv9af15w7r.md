@@ -112,7 +112,7 @@ So if you were to apply the 40% estimated market share to active sites, the figu
 40% of 10 million is 4 million websites, a much smaller figure than the figure detected by builtwith.com. There is no way to say how predictive the market share patterns of the top 10 million sites are of the 190 million remaining active sites, so one cannot credibly apply the market share estimate to the total websites estimates.
 
 
-### Best estimate.
+### Best estimate
 
 The moderate estimate above relies on builtwith.com's metrics. But there are problems when peering under the hood. BuiltWith affirm that they have [100% coverage](https://builtwith.com/data-coverage) of the web, meaning "domains and subdomains" using "technology under patent", and arrive at a figure of 16.4 billion potential websites. This would be 6 times more than Netcraft's estimates. They define this however as "100% .com/.net/.org & 100% active website coverage".  This is not particularly clear or helpful. It seems to imply that by 100% coverage they mean of those 3 TLDs plus any websites defined as active. I can't tell how that could translate into a 16.4 billion figure, given there are 4.3 billion IPv4 addresses, [614 million registered domains](https://domainnamestat.com/statistics/overview), and 37 (characters allowed) to the power of 63 (maximum characters allowed) potential domain names per TLD, which comes to a 6 followed by 98 zeros, so a lot more than 16.4 billion. Alternatively, there are [189 million domains registered in the .com, .net and .org tlds in August 2022](https://siteefy.com/how-many-domains-are-there/). Each domain can have up to 500 subdomains, but that makes the potential pool 90 billion, not 16.4. It could be that the figure estimates the potential number of virtual hosts for registered domains, or the maximum capacity of detected computers but it's impossible to know.
 
@@ -145,6 +145,9 @@ Then we have the default WordPress database. It is hugely prone to bloat. Every 
 Themes and plugins will also each bring their own data storage strategies, which will often duplicate functionality like logging, capture and accumulate data (specially images) you may never use, and do so in ways you would never approach if you were designing the data layer for an application.  Even when you uninstall them, most will persist their stored data by default, leaving a trail of unused data.
 
 WordPress itself has been actively modernising, for instance by making Headless WordPress possible through an excellent AP, working with cloud providers on improved, WordPress focused, database infrastructure, working to introduce webp formats to reduce image size, and creating a performance team. But such advances still lag enormously behind platforms and approaches built from scratch in the last 5 years, from JamStack to developer friendly CMSs like Statamic, built on Laravel. These are natively much easier to scale, customise and extend than WordPress after all the workarounds.
+
+
+## The opportunity: be the change you want to see
 
 Does that mean we should all abandon WordPress for more modern, more environmentally friendly systems? This would hardly be realistic, given the millions of sites already running on WordPress, and its remarkable ecosystem, although there are signs that in the last couple of years, for the first time, [people are indeed leaving WordPress](https://joost.blog/wordpress-market-share-shrinking/) for more performant (therefore likely greener) alternatives.
 
