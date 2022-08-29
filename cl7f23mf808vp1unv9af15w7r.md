@@ -30,8 +30,7 @@ The average emissions per webpage is approx. [0.5g of CO2](https://www.websiteca
 
 It would take [planting 2 million trees and growing them for 10 years](https://www.epa.gov/energy/greenhouse-gas-equivalencies-calculator) to compensate for that one year of WordPress. 
 
-The problem is that by then, the emissions would reach over 10 times the accumulated tonnes of CO2. I say more than 10 times because WordPress has been growing at an average annual rathe of 15%, so a decade of emissions woud be closer to 1.5 million tonnes of CO2 (around 20,000 oil tankers of gasoline).  
-
+The problem is that by then, the emissions would reach 10 times the accumulated tonnes of CO2. 
 
 ![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1661791631493/HaiEEvj2C.png align="left")
 
@@ -54,9 +53,7 @@ That would mean 1,800 metric tons of CO2 per day, or 56,000 tonnes of CO2 per mo
 
 ![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1661791738845/JNwRszxQM.png align="left")
 
-At the growth rate of 15% WordPress will generate a minimum of 2,345,000 metric tons of CO2 over 10 years, equivalent to the annual electricity consumption of every home in Dubai, and which would require planting 39 million seedlings in 2022 to offset the emissions that would accumulate in the 10 years before they mature into trees. 
-
-Put a different way, running Wordpress sites for 10 years would be the equivalent of cutting down [a forest the size of New York](https://www.epa.gov/energy/greenhouse-gas-equivalencies-calculator).
+At an annual growth rate of 15% WordPress will generate a minimum of 2,345,000 metric tons of CO2 over 10 years, equivalent to the annual electricity consumption of every home in Dubai, and which would require planting 39 million seedlings in 2022 to offset the emissions that would accumulate in the 10 years before they mature into trees.  Put a different way, running Wordpress sites for 10 years would be the equivalent of cutting down [a forest the size of New York](https://www.epa.gov/energy/greenhouse-gas-equivalencies-calculator). Without such growth the forest might "only" be the size of Chicago.
 
 An even more dramatic  way of putting it is using the mortality cost of carbon (MCC) [proposed in 2021](https://www.nature.com/articles/s41467-021-24487-w) by Daniel Bressler of Columbia University in a widely cited paper in one of the world's top scientific journals, Nature Communications. He puts forward a conservative estimate of the excess deaths from CO2 emissions over the 21st century, in terms of how a release of CO2 emissions now will contribute to global warming over that period. On the current direction of travels he estimates that adding 1 million metric tons of CO2 in 2020 would account for the death of 226 people over that time that would not have occurred had that tonne of emissions not taken place. That would mean that WordPress websites over the next 10 years will be directly responsible for the deaths of at least over 500 of our children and grandchildren, who would not have died without WordPress. 
 
