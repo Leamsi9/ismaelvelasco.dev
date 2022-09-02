@@ -78,7 +78,7 @@ Imagine that 30 minute video was transmitted in HD, not hosted in a green cloud 
 
 Except, all that reckless, high emission, 30 minute video traffic, would STILL use less electricity than keeping your computer monitor, CPU, background processes, etc, in use for 8 hours. 
 
-Taking everything into account so far, and inaccurately working from a global average electricity mix, [streaming a GB of video](https://www.iea.org/commentaries/the-carbon-footprint-of-streaming-video-fact-checking-the-headlines) will produce around 18g of CO2. In contrast, a laptop that has a life of three years will generate, including embodied carbon, [107g of CO2 per hour of use]*https://www.hempoffset.com/2022/05/31/whats-the-carbon-footprint-of-your-digital-content/), so 828g of CO2. Nearly 50 times the 30 minute video's footprint for a single GB of data.
+Taking everything into account so far, and inaccurately working from a global average electricity mix, [streaming a GB of video](https://www.iea.org/commentaries/the-carbon-footprint-of-streaming-video-fact-checking-the-headlines) will produce around 18g of CO2. In contrast, a laptop that has a life of three years will generate, including embodied carbon, [107g of CO2 per hour of use](https://www.hempoffset.com/2022/05/31/whats-the-carbon-footprint-of-your-digital-content/), so 828g of CO2. Nearly 50 times the 30 minute video's footprint for a single GB of data.
 
 So now we're there, right? You just have to use the same machine to stream the same 30 minute video over the same network for your 1GB of data to translate into a single CO2  emissions metric.
 
