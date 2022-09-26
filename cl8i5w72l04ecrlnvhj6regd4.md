@@ -21,6 +21,6 @@ There are ways of designing our software that allow us to tap into the latest ca
 3) Green Partnerships
 4) Green Voice
 
-The presentation below guides you to 3 questions each you can ask your dev team and your product team to ensure the apps you build are not built at the expense of our planet, or of people's lives. Let me know your thoughts!
+The presentation below (best viewed on desktop) guides you to 3 questions each you can ask your dev team and your product team to ensure the apps you build are not built at the expense of our planet, or of people's lives. Let me know your thoughts!
 
 <div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe frameborder="0" width="1200" height="675" style="top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/631240a645ada40019f5ba2e" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
