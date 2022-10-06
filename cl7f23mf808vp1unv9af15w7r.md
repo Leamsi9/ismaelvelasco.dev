@@ -3,7 +3,8 @@
 If you've read my post on [how many emissions are in 1GB](https://ismaelvelasco.dev/emissions-in-1gb) you will know that estimating digital CO2 emissions accurately is a fool's errand. Nevertheless, it is absolutely essential that we do so, not so much to arrive at an absolute measure, but to understand our impact on the environment in a spectrum of evidence based scenarios, and above all, track our direction of travel, and what we need to do to play our part in reducing the painful impacts of climate change.
 
 ## TLDR
-I estimate that WordPress generates (scope 1) approximately 9000 metric tons of CO2 per day (120 tanker trucks of oil), or 280,000 metric tons of CO2 per month (650,000 barrels of oil), and 3,335,000 metric tons of CO2 per year (the equivalent of razing a forest the size of Beijing every year or adding nearly a million petrol guzzling cars into circulation each year.). Furthermore, the deaths from excess heat of more than 750 of our children and grandchildren in their lifetime will be directly attributable to WordPress. Every year. This does not include WordPress' contribution to deaths from other climate-related consequences, like flooding, food shortages, climate-driven conflict or migration, etc. 
+
+I estimate that WordPress generates (scope 1) approximately 9000 metric tons of CO2 per day (120 tanker trucks of oil), or 280,000 metric tons of CO2 per month (650,000 barrels of oil), and 3,335,000 metric tons of CO2 per year (the equivalent of razing a forest the size of Beijing every year or adding nearly a million petrol guzzling cars into circulation each year.). 
 
 This post explains how I arrived at those figures. It also suggests that the answer to the title question is, sadly, yes, WordPress **is** killing the planet, a little each year.  The good news (yes, there is good news, I'm a utopian realist!), is that it's relatively easy to dramatically cut the CO2 footprint of our WordPress sites, so with modest effort each of us could make a significantly positive impact on the planet. My next post tells you how.
 
@@ -76,7 +77,6 @@ This may be had to wrap one's head around, but if you're concerned about the acc
 It also doesn't account for the very significant emission-related health impacts short of death for a large proportion of the population. 
 
 ### High estimate 
-
 
 My final estimate is that WordPress generates approximately 9000 metric tons of CO2 per day (120 tanker trucks of oil), or 280,000 metric tons of CO2 per month (650,000 barrels of oil), and 3,335,000 metric tons of CO2 per year (a forest the size of Beijing or adding nearly a million cars to annual traffic). On this accounting WordPress will be directly responsible for the deaths from temperature rises of more than 750 of our children and grandchildren in their lifetime. Each year. 
 
