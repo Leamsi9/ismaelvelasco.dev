@@ -3,13 +3,6 @@
 If you've read my post on [how many emissions are in 1GB](https://ismaelvelasco.dev/emissions-in-1gb) you will know that estimating digital CO2 emissions accurately is a fool's errand. Nevertheless, it is absolutely essential that we do so, not so much to arrive at an absolute measure, but to understand our impact on the environment in a spectrum of evidence based scenarios, and above all, track our direction of travel, and what we need to do to play our part in reducing the painful impacts of climate change.
 
 ## TLDR
-
-In this post I will not just look at the emissions of WordPress, but at the size of the internet, how many websites there are, how many of those are active, how many emissions per page, how many per request, and the methodologies behind builtwith.com, W3Techs, Netcraft, Internet Live Stats, and Censys.
-
-So if you're interested in WordPress, digital emissions OR the statistics behind the web, this post is for you.
-
-WordPress is widely said to be used by 40% of websites, and the figure of 455 million sites is frequently repeated. My own estimates below place it much lower, both in total market share and in total websites, but WordPress nevertheless accounts for a gigantic proportion of websites in the world, specially among the 10 million with the highest traffic (as well as the top 100).  This means that out of all CMSs, WordPress has many times more impact on our climate than all other CMS alternatives.  How significant is this carbon footprint?
-
 I estimate that WordPress generates (scope 1) approximately 9000 metric tons of CO2 per day (120 tanker trucks of oil), or 280,000 metric tons of CO2 per month (650,000 barrels of oil), and 3,335,000 metric tons of CO2 per year (the equivalent of razing a forest the size of Beijing every year or adding nearly a million petrol guzzling cars into circulation each year.). Furthermore, the deaths from excess heat of more than 750 of our children and grandchildren in their lifetime will be directly attributable to WordPress. Every year. This does not include WordPress' contribution to deaths from other climate-related consequences, like flooding, food shortages, climate-driven conflict or migration, etc. 
 
 This post explains how I arrived at those figures. It also suggests that the answer to the title question is, sadly, yes, WordPress **is** killing the planet, a little each year.  The good news (yes, there is good news, I'm a utopian realist!), is that it's relatively easy to dramatically cut the CO2 footprint of our WordPress sites, so with modest effort each of us could make a significantly positive impact on the planet. My next post tells you how.
@@ -84,52 +77,6 @@ It also doesn't account for the very significant emission-related health impacts
 
 ### High estimate 
 
-While the moderate estimate relies on figures and ratios from builtwith.com' crawlers and database, popular estimates for the total number of websites running on WordPress range around 455 million, calculated by a [W3Techs estimated market share of 35% for WordPress](https://w3techs.com/blog/entry/40_percent_of_the_web_uses_wordpress) applied a total number of estimated at 1.3 billion websites.
-
-By this reckoning we would have to multiply our moderate estimates by a factor of 12. But thankfully for the environment (maybe not for WordPress?) it's clear that this is a dramatic exaggeration that doesn't take account of either, the methodology used to arrive at the 1.3 billion figure, or that used  to arrive at 35% market share. 
-
-
-![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1661792220642/hA-FuGJeh.png align="left")
-
-In fact the 1.3 billion figure comes from the [January 2020 Netcraft Server Survey](https://news.netcraft.com/archives/category/web-server-survey/page/6/). Since then we have lost 160 million websites, and the number today stands at [1.1 billion](https://news.netcraft.com/archives/category/web-server-survey/).
-
-The exact methodology and tooling is not, as far as I can tell, fully public, but we can deduce that it relies Internet wide scanning of the IPv4 space, almost certainly using the standard approach of sending a TCP SYN packet to for instance port 80. If the port is closed, the host responds with an RST packet.
-If the port is open, the host responds with a TCP SYN/ACK packet indicating that a connection can be established.
-
-So out of all the IP addresses polled this way, 1.1 billion established a connection, indicating a website host in operation. This is the figure given in the many websites promoting the 455 million WordPress sites figure.
-
-There are two problems with this. 
-
-1) Netcraft indicates that "The number of hosts found running internet web sites by the Web Server Survey is large (over 1.1 billion hostnames [August 2022] ), but not exhaustive." 
-
-This suggests that it does not poll the entire IPv4 space, so the actual number of total open hosts is likely to be higher.
-
-This may explain why an equally opaque (as regards specific methods and data sources), but equally authoritative Internet wide counter (cited [by W3C](https://www.w3.org/webat25/news/webfacts) and [by Tim Berners-Lee](https://twitter.com/timberners_lee/status/511988109211627520) among others) has instead found as of August 2022, [1.9 billion websites](https://www.internetlivestats.com/total-number-of-websites/), or nearly double [the current Netcraft figure](https://news.netcraft.com/archives/2022/08/26/august-2022-web-server-survey.html). 
-
-This higher figure is apparently arrived at by integrating a range of data sources (including Netcraft Server Surveys) and projecting second by second estimates using a proprietary [worldometers algorithm (https://www.worldometers.info/about/)]. So again, not an exact number, but a good outer boundary for the total number of sites.
-
-2) The second issue is that open named hosts does not translate into actually active websites. Netcraft estimates that out of the 1.1 billion sites detected, only [200 million sites can be considered active](https://www.netcraft.com/internet-data-mining/). [Internet Live Stats](https://www.internetlivestats.com/total-number-of-websites/) likewise estimated the number of active websites at less that 200 million. The figure may well be derived from []Netcraft itself, and suggests that 70-85% of the web is populated by dead or placeholder websites. 
-
-So if you were to apply the 40% estimated market share to active sites, the figure would go down from the quoted estimate of 455 million to 80 million WordPress sites. This would still require more than doubling the moderate estimate, except for the second flaw in the 455 million calculation. The 40% market share calculated by W3Techs is not calculated from a pool of either 1-2 billion or 200 million websites. Instead it is based on a much more targeted pool of the top 10 million websites as indexed by Alexa. Although Alexa has been retired as a website, [it persists as an API until the end of 2023](https://twitter.com/jdevalk/status/1521748709696061446).
-
-40% of 10 million is 4 million websites, a much smaller figure than the figure detected by builtwith.com. There is no way to say how predictive the market share patterns of the top 10 million sites are of the 190 million remaining active sites, so one cannot credibly apply the market share estimate to the total websites estimates.
-
-
-### Best estimate
-
-The moderate estimate above relies on builtwith.com's metrics. But there are problems when peering under the hood. BuiltWith affirm that they have [100% coverage](https://builtwith.com/data-coverage) of the web, meaning "domains and subdomains" using "technology under patent", and arrive at a figure of 16.4 billion potential websites. This would be 6 times more than Netcraft's estimates. They define this however as "100% .com/.net/.org & 100% active website coverage".  This is not particularly clear or helpful. It seems to imply that by 100% coverage they mean of those 3 TLDs plus any websites defined as active. I can't tell how that could translate into a 16.4 billion figure, given there are 4.3 billion IPv4 addresses, [614 million registered domains](https://domainnamestat.com/statistics/overview), and 37 (characters allowed) to the power of 63 (maximum characters allowed) potential domain names per TLD, which comes to a 6 followed by 98 zeros, so a lot more than 16.4 billion. Alternatively, there are [189 million domains registered in the .com, .net and .org tlds in August 2022](https://siteefy.com/how-many-domains-are-there/). Each domain can have up to 500 subdomains, but that makes the potential pool 90 billion, not 16.4. It could be that the figure estimates the potential number of virtual hosts for registered domains, or the maximum capacity of detected computers but it's impossible to know.
-
-Similarly, they arrive at a hard to validate figure of 673 million active websites, defined as domains which are not "parked". This is more than 3 times the Netcraft and Internet Live Stats estimates. Given that it is estimated that [around 70% of domains are parked](https://www.glass.ai/glass-news/2019/4/24/70-of-the-internet-isnt-there-and-the-useful-internet-is-smaller-than-we-think), it seems questionable for BuiltWith to arrive at more active websites than registered domains. Adopting the BuiltWith numbers, the market share of WordPress would be 5% of their "non-parked" sites, compared to 40% of the top 10 million sites for W3Techs.  
-
-A more reliable and transparent BuiltWith metric is their total number of websites detected, [which stands at 5.4 million](https://trends.builtwith.com/hosting/traffic/Entire-Internet) as of August 2022. This is closer in line with the 614 million registered domains. Of these, 36% (nearly 2 million websites), cannot resolve the domain, taking down the number to 3.4 million websites. That would give WordPress a 10% global market share, which is probably a better indication than the W3Techs figure. The level of emissions would be the same as in the moderate scenario however, since it has been estimated using BuiltWith's detection figures.  While the total website estimates for BuiltWith appear unreliable, the distributions are credible, given they are built on [a database tracking usage of 60,722+ web technologies over the last 22 years](https://builtwith.com/market-analysis).
-
-One last reliable estimate of the size of the active web can be arrived at via [Censys](https://censys.io/data-and-search/), which uses [zmap](https://zmap.io/) to carry out Internet wide scans of the entire IPv4 space. Its methodology and code are fully open source, and backed by a large body of academic research and tooling extensions. Censys detects 1.9 billion services, 222.5 million hosts and 484.1 million virtual hosts as of August 2022. This aligns much more closely to the 1.9 billion figure from Internet Live Stats quoted above, and the 225 million active hosts is likewise in range for both Internet Live Stats and Netcraft; while the total of 706.6 million hosts plus virtual hosts is in range of the 614 million registered domains, accounting for the fact that Censys scans ports beyond those assigned to http and https, and extends beyond websites only.
-
-
-![Screenshot 2022-08-29 at 11.54.33.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1661792114628/LrjZGBQ0T.png align="left")
-
-
-Triangulating the datapoints above, we can take the c. 200 million active sites confirmed by Netcraft, Internet Live Stats and Cesys, and use the 10% BuiltWith market share to arrive at an estimate of 20 million total WordPress sites. That is 5 times more than the number of wordpress.com and automattic sites detected above, which gives us the final multiplier for our baseline, minimal calculations.
 
 My final estimate is that WordPress generates approximately 9000 metric tons of CO2 per day (120 tanker trucks of oil), or 280,000 metric tons of CO2 per month (650,000 barrels of oil), and 3,335,000 metric tons of CO2 per year (a forest the size of Beijing or adding nearly a million cars to annual traffic). On this accounting WordPress will be directly responsible for the deaths from temperature rises of more than 750 of our children and grandchildren in their lifetime. Each year. 
 
