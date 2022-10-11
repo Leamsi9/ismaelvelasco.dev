@@ -1,4 +1,4 @@
-## Is WordPress Killing the Planet?
+# Is WordPress Killing the Planet?
 
 If you've read my post on [how many emissions are in 1GB](https://ismaelvelasco.dev/emissions-in-1gb) you will know that estimating digital CO2 emissions accurately is a fool's errand. Nevertheless, it is absolutely essential that we do so, not so much to arrive at an absolute measure, but to understand our impact on the environment in a spectrum of evidence based scenarios, and above all, track our direction of travel, and what we need to do to play our part in reducing the painful impacts of climate change.
 
