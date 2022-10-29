@@ -50,7 +50,7 @@ While the 35% figure comes, as I noted, originally from W3techs.com. The 455 mil
 
 The problem is that this involves comparing apples and pears, amounting to a sampling error of more than 10,000% (40% of 10 million vs 40% of 1 billion)!
 
-4 million of the highest ranking WordPress websites is still hugely impressive and impactful, but it is orders of magnitude less than 455 million WordPress websites. This misunderstanding (well beyond conventional frippery) has memefied and become even more de-anchored from fact as time has gone on. Both the Netcraft numbers and the W3Techs percentages have changed in the years since the 455 million figure was coined, but the number 455 million number remains constant,  and cascades through the marketing claims of secondary products. As an example, a WordPress plugin claimed in May 2022 that Dodgecoin (because of course) can now be accepted by 455 million websites:
+4 million of the highest ranking WordPress websites is still hugely impressive and impactful, but it is orders of magnitude less than 455 million WordPress websites. This misunderstanding (well beyond conventional frippery) has memefied and become even more de-anchored from fact as time has gone on. Both the Netcraft numbers and the W3Techs percentages have changed in the years since the 455 million figure was coined, but the number 455 million number remains constant,  and cascades through the marketing claims of secondary products. As an example, a WordPress plugin claimed in May 2022 that Dogecoin (because of course) can now be accepted by 455 million websites:
 
 %[https://twitter.com/cb_doge/status/1522632242018750464?t=2GjpS9XmlPSEGXOuNwi_PQ&s=19].
 
