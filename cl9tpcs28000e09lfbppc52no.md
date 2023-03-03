@@ -131,5 +131,3 @@ Taking the above findings we can conclude that:
 * A significant, as yet unquantified proportion of the 350 million active websites are meaningless placeholders or spam, constituting "the meaningless web".
     
 * If we take the size of the "meaningless web" to be around c.50%, 175 million websites, or around half the "active web", there are approximately 38 million active WordPress websites, accounting for (very) roughly 1 in 5 (22%) of meaningful websites in the world.
-    
-    .
