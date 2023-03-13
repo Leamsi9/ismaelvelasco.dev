@@ -179,6 +179,8 @@ Less commonly discussed are environmental impacts beyond CO2. As the most recent
 
 ## Is Bitcoin an environmental catastrophe?
 
+### Judging the significance of Bitcoin's emissions
+
 Currently, no, it is not. Turning this time to [CBECI's comparison of CO2 emissions](https://ccaf.io/cbeci/ghg/comparisons):
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1678598057550/d222da72-2285-4b01-a9c1-c56488c1400c.png align="center")
@@ -256,7 +258,7 @@ What is clear is that this is not primarily a technological issue. The technical
 
 There is no evidence of this regulatory combination happening anywhere on a national scale, but there is scope for regulatory advocacy and experimentation.
 
-### Beyond "renewable energy": the persistence of energy demand
+### Why "renewable energy" is not enough: the problem of energy demand
 
 So, let us say that we succeed in running Bitcoin on new or stranded renewable energy. Daniel Batten states, almost as as a truism:
 
