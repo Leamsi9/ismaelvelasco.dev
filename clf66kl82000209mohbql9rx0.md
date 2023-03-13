@@ -75,7 +75,7 @@ The strains and risks above have resulted in [a permitting slowdown](https://www
 
 The same kind of issues arise when considering Bitcoin as a methane emissions reduction mechanism.
 
-![NASA Confirms A 2,500-Square-Mile Cloud Of Methane Floating Over US ...](https://tse2.mm.bing.net/th?id=OIP.qdmGCmRP_cvV0Zzv6_SjPwHaEu&pid=Api align="left")
+![NASA Confirms A 2,500-Square-Mile Cloud Of Methane Floating Over US ...](https://tse2.mm.bing.net/th?id=OIP.qdmGCmRP_cvV0Zzv6_SjPwHaEu&pid=Api#centerw150 align="center")
 
 Potter's methane combustion use case, building on [research by ESG-oriented Bitcoin promoter Daniel Batten](https://batcoinz.com/50-landfills-mining-bitcoin-a-zero-emission-bitcoin-network/), also looks on the face of it like a promising carbon capture solution but it's very far from guaranteed. The White House's moderate stance on the subject rings true:
 
@@ -128,7 +128,7 @@ Together with Kohler and Pizzol's 2019 LCA study, the CBECI could be used to mak
 
 ### Quantifying Bitcoin's electricity hunger: Proof-of-Work consensus as perverse incentive
 
-![Alum Don Poynter gains novelty reputation on campus and off, University ...](https://tse1.explicit.bing.net/th?id=OIP.wmiErrtM6C4KJNxjNn1LhAHaFd&pid=Api align="left")
+![Alum Don Poynter gains novelty reputation on campus and off, University ...](https://tse1.explicit.bing.net/th?id=OIP.wmiErrtM6C4KJNxjNn1LhAHaFd&pid=Api#centerw150 align="center")
 
 Beyond any direct electricity consumption measure at any given time, assessing the significance of Bitcoin's environmental impact is linked to whether that consumption is likely to grow, remain constant, or diminish over time. From this perspective, the real environmental threat from Bitcoin is arguably not its energy consumption at any given time, but its constantly growing energy demand.
 
@@ -223,7 +223,7 @@ Which is to say:
 
 ### Could Bitcoin be powered by renewables?
 
-![How to dream in Russian - Red Kalinka](https://tse4.mm.bing.net/th?id=OIP.4GPKHzatqK4mF8QPrUdvYAHaFN&pid=Api align="left")
+![How to dream in Russian - Red Kalinka](https://tse4.mm.bing.net/th?id=OIP.4GPKHzatqK4mF8QPrUdvYAHaFN&pid=Api#centerw150 align="center")
 
 While it is true that currently Bitcoin runs on a typical mix of fossil fuel and renewable power, the case can certainly be made that it would be conceivable to run most or all Bitcoin mining on renewable energy.
 
