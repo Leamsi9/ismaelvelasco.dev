@@ -347,8 +347,12 @@ When taking all factors into account, the only advantage of Bitcoin is its first
 
 ## Conclusion
 
-In closing, we can confidently say that even if Bitcoin is not currently the environmental catastrophe its most vociferous detractors portray, it is nevertheless environmentally costly and seriously impactful; carries perverse incentives that hardwire energy hunger into its model in an unsustainable way that is not solved by renewables; dedicates almost all its electricity to wasteful computation; and is a poorer instrument in the round to achieve its recognised potential societal benefits than many existing alternatives.
+In closing, these are the take aways.
 
-On the other hand, this should not blind us to the value of Bitcoin's innovations in the area of carbon-aware computing at scale, and its current potential, in circumscribed and carefully designed implementations, to advance the environmental agenda in specific local contexts.
-
-This means that Bitcoin can serve, within these very narrow parameters, as one design template that could be adopted and adapted to better, more beneficial and less harmful technologies that can substitute and enhance its current positive applications.
+1\. Bitcoin is not currently the environmental catastrophe its most vociferous detractors portray.  
+  
+2\. It is nevertheless environmentally costly and seriously impactful; carries perverse incentives that hardwire energy hunger into its model in an unsustainable way that is not solved by renewables; dedicates almost all its electricity to wasteful computation; and is a poorer instrument in the round to achieve its recognised potential societal benefits than many existing alternatives.  
+  
+3\. This should not blind us to the value of Bitcoin's innovations in the area of carbon-aware computing at scale, and its current potential, in circumscribed and carefully designed implementations, to advance the environmental agenda in specific local contexts.  
+  
+4\. Bitcoin can serve, within these very narrow parameters, as a design template that could be adopted and adapted by better, more beneficial and less harmful technologies that can substitute and enhance Bitcoin's current positive applications.
