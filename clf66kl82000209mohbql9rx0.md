@@ -10,7 +10,7 @@ tags: bitcoin-green-software-green-computing-sustainability
 
 In their extreme positions, all three of these assessments are misleading, and all three contain some nuggets of truth. Bitcoin is the most visible example of hyberbolic claims both for and against, especially in the environmental arena.
 
-![The cavity and the tongue! ⋆ The Teenager Today](http://theteenagertoday.com/wp/wp-content/uploads/2018/09/exaggeration-cartoon.jpg#centerw150 align="left")
+![The cavity and the tongue! ⋆ The Teenager Today](http://theteenagertoday.com/wp/wp-content/uploads/2018/09/exaggeration-cartoon.jpg#centerw150 align="center")
 
 So what **is** the significance of Bitcoin's emissions? Is it catastrophic? Negligible? A powerful green tool in tackling climate change?
 
@@ -183,7 +183,7 @@ Less commonly discussed are environmental impacts beyond CO2. As the most recent
 
 Currently, no, it is not. Turning this time to [CBECI's comparison of CO2 emissions](https://ccaf.io/cbeci/ghg/comparisons):
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1678598057550/d222da72-2285-4b01-a9c1-c56488c1400c.png align="center")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1678598057550/d222da72-2285-4b01-a9c1-c56488c1400c.png#centerw150 align="center")
 
 60 million tonnes of CO2 is not nothing. It is [equivalent](https://www.epa.gov/energy/greenhouse-gas-equivalencies-calculator) to putting 13 million petrol cars on the road for a year, or ([fun fact](https://thenationonlineng.net/only-3-4m-vehicles-insured-out-of-over-13m-in-nigeria/)) every car in Nigeria. More painfully, using the [Mortality Cost of Carbon](https://www.nature.com/articles/s41467-021-24487-w) measure, it would be accountable, in 2022 alone, for some 13,500 deaths from its causal share of extreme heat events due to global warming, by 2100. We cannot therefore dismiss Bitcoin's environmental impacts as negligible. They are in fact grave.
 
@@ -282,7 +282,7 @@ Assuming that Porter's dream proved valid, and Bitcoin related grid stresses led
 
 There is a blindspot in this question when used rhetorically, shared by much of the green energy community and virtually all environmental public messaging. Yes, solar, wind and hydroelectric energy are, for all intents and purposes, endlessly renewable.
 
-![Ore cart bypass in an abandoned silver mine. Cobalt, ON ...](https://preview.redd.it/1n5kj2mdtfk11.jpg?auto=webp&s=6e8b942190712f3e48bf3cb644373ba7f58b0a80 align="left")
+![Ore cart bypass in an abandoned silver mine. Cobalt, ON ...](https://preview.redd.it/1n5kj2mdtfk11.jpg?auto=webp&s=6e8b942190712f3e48bf3cb644373ba7f58b0a80#centerw150 align="center")
 
 But turbines, photovoltaic panels, lithium batteries and similar machinery needed to turn renewable energy into usable electricity rely on the extraction of minerals and metals that are not only not renewable, but [too scarce to meet projected energy demand](https://www.mdpi.com/2079-9276/8/1/29/htm).
 
@@ -312,7 +312,7 @@ Elaborating on the above, the ethical case for Bitcoin as discussed by its advoc
     
 * **Incentivising the green transition**: Bitcoin mining can provide an economic incentive for investment in renewable energy sources, such as solar or wind power, which can help to reduce greenhouse gas emissions and promote sustainability. It can help address the issue of massive renewable energy curtailment and waste, mitigate impacts of fossil fuel generation, and be deployed as a carbon capture mechanism. As [summarised by Daniel Batten:](https://batcoinz.com/new-insights-on-bitcoin-mining-and-sustainability/)
     
-* ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1678665887810/0c51cdcc-e4bf-4147-bb8b-5adfae387cef.png align="center")
+* ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1678665887810/0c51cdcc-e4bf-4147-bb8b-5adfae387cef.png#centerw150 align="center")
     
 
 As we have seen already, there are many nuances to each of these claims, but for the sake of argument, let us grant every one of the above benefits.
@@ -335,7 +335,7 @@ This latter point is even more significant outside the blockchain. Bitcoin has p
 
 What if that same compute time was devoted, not to hashing algorithms, but to societally meaningful computing problems, and did not imply an inseparable link between profitability, security and energy consumption?
 
-![Volunteer Computing scheme. | Download Scientific Diagram](https://www.researchgate.net/profile/Hebert-Perez-Roses/publication/236610000/figure/download/fig2/AS:299446328938499@1448404976736/Volunteer-Computing-scheme.png align="left")
+![Volunteer Computing scheme. | Download Scientific Diagram](https://www.researchgate.net/profile/Hebert-Perez-Roses/publication/236610000/figure/download/fig2/AS:299446328938499@1448404976736/Volunteer-Computing-scheme.png#centerw150 align="center")
 
 As an example, there is an ongoing project aimed at \[discovering causal relationships among human genes to improve drug repositioning\](http://A Computing System for Discovering Causal Relationships Among Human Genes to Improve Drug Repositioning). Instead of running on a single supercomputer, it is distributing the compute task across a huge network grid of small computers, and has raised the possibility of being able to power this network from distributed renewable power generation. If projects such as these, or other [volunteer distributed computing](https://www.researchgate.net/profile/Tessema-Mengistu/publication/332333249_Survey_and_Taxonomy_of_Volunteer_Computing/links/5cba1d5ca6fdcc1d49a10273/Survey-and-Taxonomy-of-Volunteer-Computing.pdf) projects could be repurposed to run as demand response mechanisms, the benefits could be planetary. The challenge is economically incentivising such uses, although there are initiatives already offering potential Proof of Concept, such as [Gridcoin](https://gridcoin.us/), [Curecoin](https://curecoin.net/) and [Foldingcoin](https://foldingcoin.net/). A [recent review](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9829550%5D) of similar "added-value" innovations has identified an expansive horizon beyond Bitcoin's trudging consensus algorithms.
 
