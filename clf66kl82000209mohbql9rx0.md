@@ -153,7 +153,7 @@ Energy consumption is thus a simplified but powerful proxy for Bitcoin's overall
 
 This is to be expected. In a system as heavily incentivised as Bitcoin, efficiency gains make possible more mining and more computation for the same electricity. Instead of electricity diminishing to stay within previous usage electricity demand grows to achieve more consumption for the same price, leading to increased total emissions, a rebound effect known as [Jevon's Paradox](https://matt-rickard.com/jevons-paradox).
 
-## How significant is Bitcoin's environmental impact?
+### How significant is Bitcoin's environmental impact?
 
 The facts are clear. At approximately 120 TWh and 60 MtCO2e, per year Bitcoin ***is*** environmentally costly. More so than its most ardent evangelists would claim, less so than its most ardent detractors would warn.
 
@@ -219,7 +219,7 @@ Which is to say:
 * If you think the answer lies between, for instance predicting that the cycle of peaks and troths will continue, and that it may eventually be left behind, but that it won't be quick, and it will probably be much bigger by then: then Bitcoin merits serious worry and environmental advocacy, within the Bitcoin community and in the regulatory sphere.
     
 
-## Could Bitcoin be powered by renewables?
+### Could Bitcoin be powered by renewables?
 
 ![How to dream in Russian - Red Kalinka](https://tse4.mm.bing.net/th?id=OIP.4GPKHzatqK4mF8QPrUdvYAHaFN&pid=Api align="left")
 
@@ -256,7 +256,7 @@ What is clear is that this is not primarily a technological issue. The technical
 
 There is no evidence of this regulatory combination happening anywhere on a national scale, but there is scope for regulatory advocacy and experimentation.
 
-## Beyond "renewable energy": the persistence of energy demand
+### Beyond "renewable energy": the persistence of energy demand
 
 So, let us say that we succeed in running Bitcoin on new or stranded renewable energy. Daniel Batten states, almost as as a truism:
 
@@ -323,25 +323,25 @@ On the side of Bitcoin, it is far bigger than all the blockchain alternatives in
 
 But this is an argument that only holds if the alternatives have a similar benefit/waste/risk profile.
 
-In fact, Ethereum, to give just one example, can approximate most of Bitcoin's key justifications above, although, with less scarcity and higher transaction costs, it may be less compelling than Bitcoin as a value store or financial inclusion mechanism. But unlike Bitcoin, Ethereum is designed as a software building platform, in addition to its functionality as a crypto currency. This means that its potential beneficial uses include but go well, well beyond Bitcoin's financial focus. 
+In fact, Ethereum, to give just one example, can approximate most of Bitcoin's key justifications above, although, with less scarcity and higher transaction costs, it may be less compelling than Bitcoin as a value store or financial inclusion mechanism. But unlike Bitcoin, Ethereum is designed as a software building platform, in addition to its functionality as a crypto currency. This means that its potential beneficial uses include but go well, well beyond Bitcoin's financial focus.
 
 It is true that there are mechanisms now for building dapps on top of Bitcoin, but this is not a use case that has reached scale, or is natively suited to Bitcoin, unlike Ethereum and many more alternatives. However, it is entirely within the realm of possibility for this dimension to expand within the Bitcoin ecosystem, and take advantage of the much greater network effects.
 
 More significant is the fact that Ethereum has moved from a Proof-of-Work to a Proof-of-Stake consensus algorithm, dramatically reducing Ethereum's energy intensity compared to Bitcoin, so that roughly similar benefits could be achieved for a fraction of the energy costs, and more importantly, without comparable perverse incentives toward energy consumption and demand, or the overwhelmingly wasteful computation.
 
-This latter point is even more significant outside the blockchain. Bitcoin has pioneered compelling models for using computation to consume stranded renewable energy and serve as a demand response solution to growing grid instability from intermittent renewable power supply. But the compute itself is almost entirely pointless, described as a puzzle saving game in which most attempts amount to nothing. And as we have established, it brings with it an intrinsic energy voraciousness whose risks and consequences do not go away when powered by renewables. 
+This latter point is even more significant outside the blockchain. Bitcoin has pioneered compelling models for using computation to consume stranded renewable energy and serve as a demand response solution to growing grid instability from intermittent renewable power supply. But the compute itself is almost entirely pointless, described as a puzzle saving game in which most attempts amount to nothing. And as we have established, it brings with it an intrinsic energy voraciousness whose risks and consequences do not go away when powered by renewables.
 
 What if that same compute time was devoted, not to hashing algorithms, but to societally meaningful computing problems, and did not imply an inseparable link between profitability, security and energy consumption?
 
 ![Volunteer Computing scheme. | Download Scientific Diagram](https://www.researchgate.net/profile/Hebert-Perez-Roses/publication/236610000/figure/download/fig2/AS:299446328938499@1448404976736/Volunteer-Computing-scheme.png align="left")
 
-As an example, there is an ongoing project aimed at [discovering causal relationships among human genes to improve drug repositioning](http://A Computing System for Discovering Causal Relationships Among Human Genes to Improve Drug Repositioning). Instead of running on a single supercomputer, it is distributing the compute task across a huge network grid of small computers, and has raised the possibility of being able to power this network from distributed renewable power generation. If projects such as these, or other [volunteer distributed computing](https://www.researchgate.net/profile/Tessema-Mengistu/publication/332333249_Survey_and_Taxonomy_of_Volunteer_Computing/links/5cba1d5ca6fdcc1d49a10273/Survey-and-Taxonomy-of-Volunteer-Computing.pdf) projects could be repurposed to run as demand response mechanisms, the benefits could be planetary. The challenge is economically incentivising such uses, although there are initiatives already offering potential Proof of Concept, such as [Gridcoin](https://gridcoin.us/), [Curecoin](https://curecoin.net/) and [Foldingcoin](https://foldingcoin.net/). A [recent review](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9829550]) of similar "added-value" innovations has identified an expansive horizon beyond Bitcoin's trudging consensus algorithms. 
+As an example, there is an ongoing project aimed at \[discovering causal relationships among human genes to improve drug repositioning\](http://A Computing System for Discovering Causal Relationships Among Human Genes to Improve Drug Repositioning). Instead of running on a single supercomputer, it is distributing the compute task across a huge network grid of small computers, and has raised the possibility of being able to power this network from distributed renewable power generation. If projects such as these, or other [volunteer distributed computing](https://www.researchgate.net/profile/Tessema-Mengistu/publication/332333249_Survey_and_Taxonomy_of_Volunteer_Computing/links/5cba1d5ca6fdcc1d49a10273/Survey-and-Taxonomy-of-Volunteer-Computing.pdf) projects could be repurposed to run as demand response mechanisms, the benefits could be planetary. The challenge is economically incentivising such uses, although there are initiatives already offering potential Proof of Concept, such as [Gridcoin](https://gridcoin.us/), [Curecoin](https://curecoin.net/) and [Foldingcoin](https://foldingcoin.net/). A [recent review](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9829550%5D) of similar "added-value" innovations has identified an expansive horizon beyond Bitcoin's trudging consensus algorithms.
 
 So is Bitcoin worth the environmental impact?
 
-In a rare and unlikely scenario where all its **potential** ethical benefits are being harnessed, and its very serious risks and costs mitigated, one could definitely make the case for Bitcoin's ongoing use and expansion, or at the very least, place it much, much lower in the priority industries to address from an environmental standpoint. But even in this idyllic setting, it seems unlikely that Bitcoin is worth its environmental impacts in comparison to alternative technologies. 
+In a rare and unlikely scenario where all its **potential** ethical benefits are being harnessed, and its very serious risks and costs mitigated, one could definitely make the case for Bitcoin's ongoing use and expansion, or at the very least, place it much, much lower in the priority industries to address from an environmental standpoint. But even in this idyllic setting, it seems unlikely that Bitcoin is worth its environmental impacts in comparison to alternative technologies.
 
-When taking all factors into account, the only advantage of Bitcoin is its first-mover advantage and market dominance, enabling greater scale and faster expansion through network effects. But this becomes a massive liability in the likely prevalence of Bitcoin implementations in which negative societal impacts match or exceed positive ones. 
+When taking all factors into account, the only advantage of Bitcoin is its first-mover advantage and market dominance, enabling greater scale and faster expansion through network effects. But this becomes a massive liability in the likely prevalence of Bitcoin implementations in which negative societal impacts match or exceed positive ones.
 
 ## Conclusion
 
