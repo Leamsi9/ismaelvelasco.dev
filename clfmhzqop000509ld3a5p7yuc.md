@@ -1,8 +1,8 @@
 ---
-title: "Distributed Computing And Renewable Energy"
+title: "Powering Distributed Computing On Renewable Energy"
 datePublished: Fri Mar 24 2023 12:07:37 GMT+0000 (Coordinated Universal Time)
 cuid: clfmhzqop000509ld3a5p7yuc
-slug: distributed-computing-and-renewable-energy
+slug: powering-distributed-computing-on-renewable-energy
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/XGAZzyLzn18/upload/c325ec5c10084d552b87f33cb350a4d8.jpeg
 tags: blockchain, bitcoin, sustainability, green-software, green-computing
 
