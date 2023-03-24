@@ -1,14 +1,15 @@
 ---
-title: "Running Distributed Computing On Surplus (Stranded) Renewable Energy: Lessons from Bitcoin"
+title: "Distributed Computing And Renewable Energy: Lessons from Bitcoin"
 datePublished: Fri Mar 24 2023 12:07:37 GMT+0000 (Coordinated Universal Time)
 cuid: clfmhzqop000509ld3a5p7yuc
-slug: running-distributed-computing-on-surplus-stranded-renewable-energy-lessons-from-bitcoin
+slug: distributed-computing-and-renewable-energy-lessons-from-bitcoin
 tags: blockchain, bitcoin, sustainability, green-software, green-computing
 
 ---
 
 ![How to dream in Russian - Red Kalinka](https://tse4.mm.bing.net/th?id=OIP.4GPKHzatqK4mF8QPrUdvYAHaFN&pid=Api#centerw150 align="center")
 
+##  Electricity grid instability: the blindspot in carbon-aware computing
 There is a lot of ongoing work in exploring ways to tie computing jobs to the times and places in the world where the electricity supply runs mostly on renewable energy. This is known as [carbon-aware](https://hackernoon.com/our-code-is-harming-the-planet-we-need-carbon-aware-design-patterns) or carbon-responsive computing. But they tend to be extremely niche and small-scale with some notable exceptions I hope to cover in a later article.
 
 There is however a caveat, which is seldom accounted for in the literature and messaging around carbon aware computing: powering your computing on renewable energy is not necessarily enough to reduce its CO2 emissions.
@@ -24,7 +25,6 @@ It is [now understood](https://docs.wind-watch.org/jorgenson2012.pdf) that there
 * Using surplus renewable electricity that would otherwise be curtailed by the grid.
     
 * Constructing or contracting for new renewable electricity sources to power additional consumption from computing.
-    
 
 This is one key reason why within the field of carbon-aware computing research is underway on ways to target specifically stranded renewable energy, that is, energy that peaks when the sun decides to shine and clouds to part and winds to blow, at exactly the times when energy is not being consumed in sufficient volume by the grid. At those times the excess energy is not useable and could even lead to instability in the electricity grid, so it becomes curtailed and essentially thrown away and wasted. If we can target our computing jobs at that wasted renewable energy, we would help reduce digital emissions, stabilise the grid and avoid perverse effects from competing for a limited supply of available renewable energy with other users.
 
@@ -79,7 +79,7 @@ An example of such perverse effects could be price inflation. There is evidence 
 
 Another example of preverse effects is the way Bitcoin's electricity demand, as we saw in Texas, can place the grid under strain, renewable energy or not, attracting regulatory attention from Congress. In China too, pressures on the electricity grid led to [regulatory warnings and interventions](https://www.bbc.com/news/technology-47867031) in 2019 that prefigured the final crackdown in 2021. In Venezuela, where subsidised electricity and [economic collapse made Bitcoin a financial safe haven](https://www.emerald.com/insight/content/doi/10.1108/TG-01-2020-0009/full/html), Bitcoin mining spikes led to [grid failures and blackouts](https://www.sciencedirect.com/science/article/abs/pii/S2214629621002607) with 90% of the country being without electric power for several hours, and whole regions losing access to electricity for an entire week. The economic, social and human impact in a country without a functioning social net, was immense.
 
-## The pitfalls of thinking of renewable energy as a get-out-of-jail-free card
+## Renewable electricity supply chains: blindspot of the green transition
 
 ![Ore cart bypass in an abandoned silver mine. Cobalt, ON ...](https://preview.redd.it/1n5kj2mdtfk11.jpg?auto=webp&s=6e8b942190712f3e48bf3cb644373ba7f58b0a80#centerw150 align="center")
 
