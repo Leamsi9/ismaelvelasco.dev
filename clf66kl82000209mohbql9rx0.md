@@ -2,7 +2,7 @@
 title: "Fact check: Is Bitcoin catastrophic, insignificant or a strong net positive for the environment?"
 datePublished: Mon Mar 13 2023 02:03:36 GMT+0000 (Coordinated Universal Time)
 cuid: clf66kl82000209mohbql9rx0
-slug: fact-check-is-bitcoin-catastrophic-insignificant-or-a-strong-net-positive-for-the-environment
+slug: bitcoin-environmental-impact
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1678514040326/970d51d1-e359-4874-b3f4-3ea47f132fc1.jpeg
 tags: bitcoin-green-software-green-computing-sustainability
 
@@ -221,80 +221,7 @@ Which is to say:
 * If you think the answer lies between, for instance predicting that the cycle of peaks and troths will continue, and that it may eventually be left behind, but that it won't be quick, and it will probably be much bigger by then: then Bitcoin merits serious worry and environmental advocacy, within the Bitcoin community and in the regulatory sphere.
     
 
-### Could Bitcoin be powered by renewables?
 
-![How to dream in Russian - Red Kalinka](https://tse4.mm.bing.net/th?id=OIP.4GPKHzatqK4mF8QPrUdvYAHaFN&pid=Api#centerw150 align="center")
-
-While it is true that currently Bitcoin runs on a typical mix of fossil fuel and renewable power, the case can certainly be made that it would be conceivable to run most or all Bitcoin mining on renewable energy.
-
-Examples have already been given of grid participation schemes, whereby Bitcoin miners are paid by the tax-payer to mine outside of peak times, and in target normally curtailed, surplus energy. In some of these schemes, the focus is exclusively on renewable energy.
-
-With the right incentives, [Bitcoin mining equipment could be co-located with renewable energy sources](https://arxiv.org/pdf/2207.02428.pdf) at scale, powered significantly or even exclusively from surplus renewable energy. This has the added benefit of stabilising the grid, an issue that will grow in importance as the share of renewable electricity grows, meaning the potential for scale will only grow with time. Having said that, it is important to emphasise that powering Bitcoin mining on renewable energy is not enough to achieve an environmentally positive impact.
-
-Counter-intuitively, when a Bitcoin mine purchases non-stranded electricity from existing renewable sources, it does not automatically reduce emissions. This is because to balance supply and demand, many national grids replace each additional unit of electricity demand from renewable sources with coal and natural gas equivalents. It is [now understood](https://docs.wind-watch.org/jorgenson2012.pdf) that there is not a one-to-one equivalence between fossil fuel energy and renewable energy in emissions displacement, so you need extra renewable energy to displace the same amount of fossil fuel emissions.
-
-Consequently, there are only two main ways to ensure that Bitcoin mining powered from renewables would result in zero direct emissions on the main electricity grid:
-
-* Using surplus renewable electricity that would otherwise be curtailed by the grid.
-    
-* Constructing or contracting for new renewable electricity sources to power mining
-    
-
-An alternative, complementary approach to the latter involves linking Bitcoin's distributed mining network, to the smaller but steadily growing [distributed renewable power network](https://academic.oup.com/jcde/article/9/5/1789/6693710?login=false) (small-scale solar and wind generators in homes, offices, streets, fields and the like), which currently has limited or no mechanisms to harness or sell their surplus energy.
-
-This general concept, evocatively floated by [Nurminen et al](https://link.springer.com/article/10.1007/s12053-017-9552-1). would seem to be a close fit for Bitcoin mining running on spare renewable energy. Examples of this approach already exist. One promising variation is the company Soluna, in Morocco, which is [researching how to finance off-grid renewable energy projects with Bitcoin mining](https://www.solunacomputing.com/wp-content/uploads/2022/05/Soluna_white-paper-05122022.pdf). Where off-grid projects are too small and too far to be connected and sell energy to the electricity grid, they can monetise their local renewable power generation via Bitcoin mining as a way of financing capacity growth until they can integrate into the national power grid.
-
-The largest-scale experiment in distributed generation to power Bitcoin was in China between 2014-2021:
-
-> When the first group of bitcoin miners arrived in Sichuan around 2014, the sites they chose for bitcoin factories were near small hydropower stations that did not connect to the national power network... For the bitcoin miners, the power price of such offline stations is lower than the power price sold online... The arrival of the bitcoin factory ...made some small hydropower stations profitable.
-> 
-> [Addiction to Power: Infrastructure and the making of Bitcoin mining zones in China and the United States](https://www.societyandspace.org/articles/addiction-to-power-infrastructure-and-the-making-of-bitcoin-mining-zones-in-china-and-the-united-states)
-
-At its peak, China dominated 75% of the global Bitcoin mining infrastructure, and in the summer months when rain is plentiful, most of it was powered by these small renewable hydro-electric plants. China’s winters are arid, and solar and wind farms don’t produce a steady enough supply to run mining operations around the clock, so miners often turned to coal. This [put China's trajectory toward Net Zero in danger](https://www.nature.com/articles/s41467-021-22256-3), leading, together with grid load and economic issues, to the 2021 crackdown that finally stopped the majority of Bitcoin mining in China.
-
-If one could moderate or exclude fossil-fuel-powered Bitcoin mining, with effective displacement strategies, the potential of similar but more targeted approaches would be significant. Given the large number of small-scale Bitcoin investors, network effects and incentives such as subsidies could potentially incentivise and finance a significant expansion of distributed small-scale renewable energy infrastructure, along with more sophisticated industrial operations in the style of Soluna or Chinese hydroelectric miners, ensuring Bitcoin mining runs on surplus renewable energy, or leverages non-residual renewable energy to grow net renewable energy capacity for large ultimate environmental rewards.
-
-What is clear is that this is not primarily a technological issue. The technical means exist or can be realistically developed to run Bitcoin at scale on renewable power. But this is impossible without concerted government action in the form of well-honed incentive mechanisms to make green approaches to Bitcoin mining profitable and expand renewable energy capacity; and enforceable regulation that curbs, disincentivises or impedes fossil-fuel-powered Bitcoin mining.
-
-There is no evidence of this regulatory combination happening anywhere on a national scale, but there is scope for regulatory advocacy and experimentation.
-
-### Why "renewable energy" is not enough: the problem of energy demand
-
-So, let us say that we succeed in running Bitcoin on new or stranded renewable energy. Daniel Batten states, almost as as a truism:
-
-***"By itself, Bitcoin Electricity Consumption is not the right metric to use, because it cannot give a read on environmental impact. For example, if all that energy were coal, it would be a severe impact. If it were all hydro, the impact would be negligible."***
-
-Likewise, Bitcoin's [environmental page](https://www.bitcoin.com/get-started/how-bitcoin-impacts-environment/) rhetorically asks:
-
-***"If Bitcoin’s energy comes from 70% renewables, is this bad?"***
-
-I don't believe that question should be rhetorical, and should in fact be asked in earnest: as we have already seen, the impacts of renewable energy use on environmental outcomes are sometimes unexpected,
-
-Returning to Porter's green Bitcoin dream above, there is no acknowledgement that renewable energy currently powers only 13% of our global energy needs, and surplus renewable energy represents a tiny fraction of that. If all current Bitcoin usage targeted surplus renewable energy, let alone if every use case for carbon-aware computing did the same, the likelihood of perverse effects is high.
-
-An example of such perverse effects could be price inflation. There is evidence from [Texas](https://arxiv.org/pdf/2302.02221.pdf), [New York and China](https://deliverypdf.ssrn.com/delivery.php?ID=106084065013126004096022088116111112025011007010093030069094100026065017068001125086045045030022009009043110084084107100082095028090009021064022120066124068117086022053059043117017007003067085073019066116001080095065102021120114019015119106119092014007&EXT=pdf&INDEX=TRUE) that where Bitcoin mining scales up in a locality, local consumer electricity costs also rise, meaning tax payers pay for both, the demand-response subsidies, and a "Bitcoin tax" on their bills.
-
-Another example of preverse effects is the way Bitcoin's electricity demand, as we saw in Texas, can place the grid under strain, renewable energy or not, attracting regulatory attention from Congress. In China too, pressures on the electricity grid led to [regulatory warnings and interventions](https://www.bbc.com/news/technology-47867031) in 2019 that prefigured the final crackdown in 2021. In Venezuela, where subsidised electricity and [economic collapse made Bitcoin a financial safe haven](https://www.emerald.com/insight/content/doi/10.1108/TG-01-2020-0009/full/html), Bitcoin mining spikes led to [grid failures and blackouts](https://www.sciencedirect.com/science/article/abs/pii/S2214629621002607) with 90% of the country being without electric power for several hours, and whole regions losing access to electricity for an entire week. The economic, social and human impact in a country without a functioning social net, was immense.
-
-Porter might argue that this kind of grid pressure is the precise scenario he had in mind in suggesting that Bitcoin's energy demand would accelerate investment in renewable energy infrastructure. The Texas experience shows that indeed Bitcoin has indeed generated interest in further investment in the grid, although it remains unclear how far that interest will translate into hard cash and whether that cash will go specifically to the renewable energy sector. On the other hand, Sulana's example in Morocco shows how Bitcoin can indeed be harnessed to finance the growth of renewable energy infrastructure, particularly for distributed power generation.
-
-Assuming that Porter's dream proved valid, and Bitcoin related grid stresses led to a golden age of investment in renewable energy infrastructure, this brings us back to why Bitcoin's question is worth asking in earnest: is powering Bitcoin on renewable energy *bad*?
-
-There is a blindspot in this question when used rhetorically, shared by much of the green energy community and virtually all environmental public messaging. Yes, solar, wind and hydroelectric energy are, for all intents and purposes, endlessly renewable.
-
-![Ore cart bypass in an abandoned silver mine. Cobalt, ON ...](https://preview.redd.it/1n5kj2mdtfk11.jpg?auto=webp&s=6e8b942190712f3e48bf3cb644373ba7f58b0a80#centerw150 align="center")
-
-But turbines, photovoltaic panels, lithium batteries and similar machinery needed to turn renewable energy into usable electricity rely on the extraction of minerals and metals that are not only not renewable, but [too scarce to meet projected energy demand](https://www.mdpi.com/2079-9276/8/1/29/htm).
-
-> The results show that proven reserves and, in specific cases, resources of several metals are insufficient to build a renewable energy system at the predicted level of global energy demand by 2050...
-> 
-> We show here that even if the energy system was fully renewable, supply constraints on several elements other than carbon would still compel us to reduce our energy demand.
-> 
-> [Enough Metals? Resource Constraints to Supply a Fully Renewable Energy System](https://www.mdpi.com/2079-9276/8/1/29/htm)
-
-Green energy is technically much greener than fossil fuel energy and therefore a key tool in our battle against climate change, but at scale, it is not altogether renewable: it merely shifts the supply chain challenges from fossil fuels to minerals and metals.
-
-This is still preferable, minerals and metals, unlike fossil fuels, allowing for recycling and substitution, reducing overall emissions and improving energy resilience. But it is not a magic formula that spares us from the need to reduce our energy consumption. This means that running Bitcoin on renewables does not render its energy voraciousness moot, even in an all-renewable utopia.
 
 ## Is Bitcoin worth the environmental impact?
 
@@ -336,8 +263,6 @@ This latter point is even more significant outside the blockchain. Bitcoin has p
 What if that same compute time was devoted, not to hashing algorithms, but to societally meaningful computing problems, and did not imply an inseparable link between profitability, security and energy consumption?
 
 ![Volunteer Computing scheme. | Download Scientific Diagram](https://www.researchgate.net/profile/Hebert-Perez-Roses/publication/236610000/figure/download/fig2/AS:299446328938499@1448404976736/Volunteer-Computing-scheme.png#centerw150 align="center")
-
-As an example, there is an ongoing project aimed at \[discovering causal relationships among human genes to improve drug repositioning\](http://A Computing System for Discovering Causal Relationships Among Human Genes to Improve Drug Repositioning). Instead of running on a single supercomputer, it is distributing the compute task across a huge network grid of small computers, and has raised the possibility of being able to power this network from distributed renewable power generation. If projects such as these, or other [volunteer distributed computing](https://www.researchgate.net/profile/Tessema-Mengistu/publication/332333249_Survey_and_Taxonomy_of_Volunteer_Computing/links/5cba1d5ca6fdcc1d49a10273/Survey-and-Taxonomy-of-Volunteer-Computing.pdf) projects could be repurposed to run as demand response mechanisms, the benefits could be planetary. The challenge is economically incentivising such uses, although there are initiatives already offering potential Proof of Concept, such as [Gridcoin](https://gridcoin.us/), [Curecoin](https://curecoin.net/) and [Foldingcoin](https://foldingcoin.net/). A [recent review](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9829550%5D) of similar "added-value" innovations has identified an expansive horizon beyond Bitcoin's trudging consensus algorithms.
 
 So is Bitcoin worth the environmental impact?
 
