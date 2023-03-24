@@ -46,6 +46,8 @@ Clearly, it is hard to orchestrate an entire population to fit its rhythms to th
 
 The more renewable energy powers the electricity grid as we advance in the energy transition, the more the need for demand-side stabilisation mechanisms.
 
+## Lessons from Bitcoin: achieving carbon aware computing at scale
+
 Because computing can be electricity-intensive, because it can be located anywhere, and because it can be increased or diminished at will, it can be a great "load resource" for such demand response mechanisms, and Bitcoin has been the pioneer in harnessing this opportunity at scale as described in the [previous post](https://ismaelvelasco.dev/bitcoin-environmental-impact) of this [greening blockchains series](https://ismaelvelasco.dev/series/greening-blockchains).
 
 I gave examples of grid participation schemes in Texas whereby Bitcoin miners are able to mine intensively (i.e. run intensive computing jobs) outside of peak times, and are paid by the tax-payer to stop mining/computing (and consuming electricity) when local grid demand is high. There are two types of such grid participation schemes around Bitcoin, reviewed in detail in \[a recent Masters' thesis\] (https://nordopen.nord.no/nord-xmlui/bitstream/handle/11250/2836156/Mellerud.pdf):
@@ -71,7 +73,7 @@ Another variation on the use of distributed renewable energy generation to power
 
 Soluna's example, where off-grid projects are too small and too remote to be connected to and sell energy to the electricity grid, they can monetise their local renewable power generation via Bitcoin mining as a way of financing capacity growth until they can integrate into the national power grid. This is an interesting model, where renewable energy powers profitable computing, which in turn finances renewable energy expansion, allowing for more profitable computing. This is a model that could be applied to potentially much more meaningful and societally useful computing than Bitcoin mining.
 
-## The pitfalls of carbon aware computing at scale
+## Lessons from Bitcoin - the pitfalls of carbon aware computing at scale
 
 I pointed earlier to a dangerous blindspot in carbon-aware computing advocates, relating to the fact that simply switching to renewable energy does not necessarily reduce emissions.  Perhaps an even bigger blindspot in the literature and messaging is that there is almost no acknowledgement that renewable energy currently powers only [13% of our global primary energy needs](https://ourworldindata.org/renewable-energy), and stranded renewable energy represents a tiny fraction of that. If all current Bitcoin usage targeted surplus renewable energy, let alone if every use case for carbon-aware computing did the same, the likelihood of perverse effects is high.
 
@@ -97,7 +99,7 @@ Green energy is technically much greener than fossil fuel energy and therefore a
 
 This is still preferable, minerals and metals, unlike fossil fuels, allowing for recycling and substitution, reducing overall emissions and improving energy resilience. But it is not a magic formula that spares us from the need to reduce our energy consumption. This means that running computing on renewables does not render its energy voraciousness moot, even in an all-renewable utopia.
 
-## Conclusion: Transferring Bitcoin's Green Innovations to Wider Green Computing
+## Conclusion: transferring Bitcoin's Proof of Concept to wider green computing
 
 There is so much to learn from some of the applications Bitcoin has pioneered at scale in the area of renewable energy, grid demand management and stranded energy distributed computing. Bitcoin's absolute social utility is debatable, as I discussed in a previous post. But its relative social utility is clearer: there are surely many more socially beneficial applications of computing, and the models of greener distributed computing pioneered by Bitcoin could be harnessed for such applications too.
 
