@@ -31,7 +31,9 @@ Most carbon-aware computing projects are cloud based, running their jobs on dist
 
 But this is not the only, or necessarily the best model for all use cases. An alternative, much less widely discussed model, is to directly co-locate one's servers with the renewable energy generation plants, and partner with electricity suppliers to use computing jobs to stabilise the grid. Bitcoin is at the cutting edge of this form of carbon-responsive computing, with several experiments at scale, and the green computing world would do well to learn from both its successes and its failures.
 
-But first, a blagger's guide to the electricity grid and renewable energy fluctuations.
+## A blagger's guide to renewable energy fluctuations and the electricity grid
+
+![Research Project Will Improve Energy Distribution in Smart Grid](http://www.presseagentur.com/media/3167/Smart_Grid.jpg align="left")
 
 To ensure the safe operation of the grid, voltage, frequency and similar electrical oscillations must be kept within specified ranges. This requires maintaining a constant balance of electricity supply and demand. If the balance is lost, blackouts, brownouts, and other grid disruptions can ensue. An increasing share of (unpredictably fluctuating) wind and solar energy in the electricity mix introduces unplanned peaks and drops. Whereas in legacy energy systems the amount of fossil fuel energy coming into the grid was under human control, and could therefore be stabilised on the supply side in a fully planned way. The more renewable energy is part of the mix, the more electricity generation (supply) is not under the control of humans and cannot adapt in a planned way to changes in electricity demand.
 
