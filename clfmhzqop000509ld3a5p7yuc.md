@@ -8,14 +8,11 @@ tags: blockchain, bitcoin, sustainability, green-software, green-computing
 
 ---
 
-![How to dream in Russian - Red Kalinka](https://tse4.mm.bing.net/th?id=OIP.4GPKHzatqK4mF8QPrUdvYAHaFN&pid=Api#centerw150 align="center")
+## Electricity grid instability: the blindspot in carbon-aware computing
 
-##  Electricity grid instability: the blindspot in carbon-aware computing
 There is a lot of ongoing work in exploring ways to tie computing jobs to the times and places in the world where the electricity supply runs mostly on renewable energy. This is known as [carbon-aware](https://hackernoon.com/our-code-is-harming-the-planet-we-need-carbon-aware-design-patterns) or carbon-responsive computing. But they tend to be extremely niche and small-scale with some notable exceptions I hope to cover in a later article.
 
 There is however a caveat, which is seldom accounted for in the literature and messaging around carbon aware computing: powering your computing on renewable energy is not necessarily enough to reduce its CO2 emissions.
-
-Say what?
 
 ![October | 2009 | SciFun](https://tse4.mm.bing.net/th?id=OIP.g4S7q78ZniN3WM_2znjqeQAAAA&pid=Api#centerw150 align="center")
 
@@ -26,6 +23,7 @@ It is [now understood](https://docs.wind-watch.org/jorgenson2012.pdf) that there
 * Using surplus renewable electricity that would otherwise be curtailed by the grid.
     
 * Constructing or contracting for new renewable electricity sources to power additional consumption from computing.
+    
 
 This is one key reason why within the field of carbon-aware computing research is underway on ways to target specifically stranded renewable energy, that is, energy that peaks when the sun decides to shine and clouds to part and winds to blow, at exactly the times when energy is not being consumed in sufficient volume by the grid. At those times the excess energy is not useable and could even lead to instability in the electricity grid, so it becomes curtailed and essentially thrown away and wasted. If we can target our computing jobs at that wasted renewable energy, we would help reduce digital emissions, stabilise the grid and avoid perverse effects from competing for a limited supply of available renewable energy with other users.
 
@@ -76,7 +74,7 @@ Soluna's example, where off-grid projects are too small and too remote to be con
 
 ## Lessons from Bitcoin - the pitfalls of carbon aware computing at scale
 
-I pointed earlier to a dangerous blindspot in carbon-aware computing advocates, relating to the fact that simply switching to renewable energy does not necessarily reduce emissions.  Perhaps an even bigger blindspot in the literature and messaging is that there is almost no acknowledgement that renewable energy currently powers only [13% of our global primary energy needs](https://ourworldindata.org/renewable-energy), and stranded renewable energy represents a tiny fraction of that. If all current Bitcoin usage targeted surplus renewable energy, let alone if every use case for carbon-aware computing did the same, the likelihood of perverse effects is high.
+I pointed earlier to a dangerous blindspot in carbon-aware computing advocates, relating to the fact that simply switching to renewable energy does not necessarily reduce emissions. Perhaps an even bigger blindspot in the literature and messaging is that there is almost no acknowledgement that renewable energy currently powers only [13% of our global primary energy needs](https://ourworldindata.org/renewable-energy), and stranded renewable energy represents a tiny fraction of that. If all current Bitcoin usage targeted surplus renewable energy, let alone if every use case for carbon-aware computing did the same, the likelihood of perverse effects is high.
 
 An example of such perverse effects could be price inflation. There is evidence from [Texas](https://arxiv.org/pdf/2302.02221.pdf), [New York and China](https://deliverypdf.ssrn.com/delivery.php?ID=106084065013126004096022088116111112025011007010093030069094100026065017068001125086045045030022009009043110084084107100082095028090009021064022120066124068117086022053059043117017007003067085073019066116001080095065102021120114019015119106119092014007&EXT=pdf&INDEX=TRUE) that where Bitcoin mining scales up in a locality, local consumer electricity costs also rise, meaning tax payers pay for both, the demand-response subsidies, and a "Bitcoin tax" on their bills. This would apply to any electricity intensive compute that took its place.
 
@@ -86,7 +84,7 @@ Another example of preverse effects is the way Bitcoin's electricity demand, as 
 
 ![Ore cart bypass in an abandoned silver mine. Cobalt, ON ...](https://preview.redd.it/1n5kj2mdtfk11.jpg?auto=webp&s=6e8b942190712f3e48bf3cb644373ba7f58b0a80#centerw150 align="center")
 
-Solar, wind and hydroelectric energy are, for all intents and purposes, endlessly renewable.  But turbines, photovoltaic panels, lithium batteries and similar machinery needed to turn renewable energy into usable electricity rely on the extraction of minerals and metals that are not only not renewable, but [too scarce to meet projected energy demand](https://www.mdpi.com/2079-9276/8/1/29/htm). 
+Solar, wind and hydroelectric energy are, for all intents and purposes, endlessly renewable. But turbines, photovoltaic panels, lithium batteries and similar machinery needed to turn renewable energy into usable electricity rely on the extraction of minerals and metals that are not only not renewable, but [too scarce to meet projected energy demand](https://www.mdpi.com/2079-9276/8/1/29/htm).
 
 Failure to account for this is a blind-spot that extends beyond green computing to the green tech movement as a whole.
 
@@ -104,9 +102,9 @@ This is still preferable, minerals and metals, unlike fossil fuels, allowing for
 
 There is so much to learn from some of the applications Bitcoin has pioneered at scale in the area of renewable energy, grid demand management and stranded energy distributed computing. Bitcoin's absolute social utility is debatable, as I discussed in a previous post. But its relative social utility is clearer: there are surely many more socially beneficial applications of computing, and the models of greener distributed computing pioneered by Bitcoin could be harnessed for such applications too.
 
-As an example, there is an ongoing project aimed at \[discovering causal relationships among human genes to improve drug repositioning\](http://A Computing System for Discovering Causal Relationships Among Human Genes to Improve Drug Repositioning). Instead of running on a single supercomputer, it is distributing the compute task across a huge network grid of small computers, and has itself raised the possibility of being able to power this network from distributed renewable power generation, although not yet taken steps to make it happen. 
+As an example, there is an ongoing project aimed at \[discovering causal relationships among human genes to improve drug repositioning\](http://A Computing System for Discovering Causal Relationships Among Human Genes to Improve Drug Repositioning). Instead of running on a single supercomputer, it is distributing the compute task across a huge network grid of small computers, and has itself raised the possibility of being able to power this network from distributed renewable power generation, although not yet taken steps to make it happen.
 
-If projects such as these, or other [volunteer distributed computing](https://www.researchgate.net/profile/Tessema-Mengistu/publication/332333249_Survey_and_Taxonomy_of_Volunteer_Computing/links/5cba1d5ca6fdcc1d49a10273/Survey-and-Taxonomy-of-Volunteer-Computing.pdf) projects could be repurposed to run as demand response mechanisms, the benefits could be planetary. 
+If projects such as these, or other [volunteer distributed computing](https://www.researchgate.net/profile/Tessema-Mengistu/publication/332333249_Survey_and_Taxonomy_of_Volunteer_Computing/links/5cba1d5ca6fdcc1d49a10273/Survey-and-Taxonomy-of-Volunteer-Computing.pdf) projects could be repurposed to run as demand response mechanisms, the benefits could be planetary.
 
 The challenge is economically incentivising such uses, although there are initiatives already offering potential Proof of Concept in the blockchain space, such as [Gridcoin](https://gridcoin.us/), [Curecoin](https://curecoin.net/) and [Foldingcoin](https://foldingcoin.net/). A [recent review](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9829550%5D) of similar "added-value" innovations has identified an expansive horizon beyond Bitcoin's trudging consensus algorithms.
 
