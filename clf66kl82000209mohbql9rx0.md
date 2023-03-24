@@ -221,8 +221,6 @@ Which is to say:
 * If you think the answer lies between, for instance predicting that the cycle of peaks and troths will continue, and that it may eventually be left behind, but that it won't be quick, and it will probably be much bigger by then: then Bitcoin merits serious worry and environmental advocacy, within the Bitcoin community and in the regulatory sphere.
     
 
-
-
 ## Is Bitcoin worth the environmental impact?
 
 This is a question [Bitcoin itself](https://www.bitcoin.com/get-started/how-bitcoin-impacts-environment/) is not afraid to ask, answering in the affirmative. But it does not really try very hard to make its case, barely going through the motions by adducing in evidence Bitcoin's provision of some banking-type services to an unquantified proportion of the unbanked of the world and its contribution to [SDG target 10.c](https://sdgs.un.org/goals/goal10) to reduce the cost of international remittances.
@@ -242,7 +240,11 @@ Elaborating on the above, the ethical case for Bitcoin as discussed by its advoc
 * ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1678665887810/0c51cdcc-e4bf-4147-bb8b-5adfae387cef.png#centerw150 align="center")
     
 
-As we have seen already, there are many nuances to each of these claims, but for the sake of argument, let us grant every one of the above benefits.
+As we have seen already, there are many nuances to each of these claims, but for the sake of argument, let us grant every one of the above benefits. If one could moderate or exclude fossil-fuel-powered Bitcoin mining, ensuring Bitcoin mining runs on surplus renewable energy, or leverages non-residual renewable energy to grow net renewable energy capacity for large ultimate environmental rewards, Bitcoin could be a laudably green technology.
+
+What is clear is that this is not primarily a technological issue. The technical means exist or can be realistically developed to run Bitcoin at scale on renewable power. But this is impossible without concerted government action in the form of well-honed incentive mechanisms to make green approaches to Bitcoin mining profitable and expand renewable energy capacity; and enforceable regulation that curbs, disincentivises or impedes fossil-fuel-powered Bitcoin mining. And there is no evidence of this regulatory combination happening anywhere on a national scale.
+
+There is at least, scope for regulatory advocacy and experimentation by green-minded Bitcoin advocates.
 
 **The question arises: is Bitcoin the best way to achieve these outcomes?**
 
@@ -275,6 +277,7 @@ When taking all factors into account, the only advantage of Bitcoin is its first
 In closing, we can derive four key insights from the current state of the art:
 
 1. **Bitcoin is not currently the environmental catastrophe its most vociferous detractors portray.**
+    
 
 2\. **It is nevertheless environmentally costly and seriously impactful**; carries perverse incentives that hardwire energy hunger into its model in an unsustainable way that is not solved by renewables; dedicates almost all its electricity to wasteful computation; and is a poorer instrument in the round to achieve its recognised potential societal benefits than many existing alternatives.
 
