@@ -12,7 +12,7 @@ tags: blockchain, bitcoin, sustainability, green-software, green-computing
 
 There is a lot of ongoing work in exploring ways to tie computing jobs to the times and places in the world where the electricity supply runs mostly on renewable energy. This is known as [carbon-aware](https://hackernoon.com/our-code-is-harming-the-planet-we-need-carbon-aware-design-patterns) or carbon-responsive computing. But they tend to be extremely niche and small-scale with some notable exceptions I hope to cover in a later article.
 
-There is however a caveat, which is seldom accounted for in the literature and messaging around carbon aware computing: powering your computing on renewable energy is not necessarily enough to reduce its CO2 emissions.
+There is however a caveat, which is seldom accounted for in the literature and messaging around carbon aware computing: *powering your computing on renewable energy is not necessarily enough to reduce its CO2 emissions*.
 
 ![October | 2009 | SciFun](https://tse4.mm.bing.net/th?id=OIP.g4S7q78ZniN3WM_2znjqeQAAAA&pid=Api#centerw150 align="center")
 
@@ -51,7 +51,7 @@ The more renewable energy powers the electricity grid as we advance in the energ
 
 Because computing can be electricity-intensive, because it can be located anywhere, and because it can be increased or diminished at will, it can be a great "load resource" for such demand response mechanisms, and Bitcoin has been the pioneer in harnessing this opportunity at scale as described in the [previous post](https://ismaelvelasco.dev/bitcoin-environmental-impact) of this [greening blockchains series](https://ismaelvelasco.dev/series/greening-blockchains).
 
-I gave examples of grid participation schemes in Texas whereby Bitcoin miners are able to mine intensively (i.e. run intensive computing jobs) outside of peak times, and are paid by the tax-payer to stop mining/computing (and consuming electricity) when local grid demand is high. There are two types of such grid participation schemes around Bitcoin, reviewed in detail in \[a recent Masters' thesis\] (https://nordopen.nord.no/nord-xmlui/bitstream/handle/11250/2836156/Mellerud.pdf):
+I gave examples of grid participation schemes in Texas whereby Bitcoin miners are able to mine intensively (i.e. run intensive computing jobs) outside of peak times, and are paid by the tax-payer to stop mining/computing (and consuming electricity) when local grid demand is high. There are two types of such grid participation schemes around Bitcoin, reviewed in detail in [a recent Masters' thesis](https://nordopen.nord.no/nord-xmlui/bitstream/handle/11250/2836156/Mellerud.pdf):
 
 * Bitcoin miners acting as "load resources" in conventional demand response programs, enabling them to participate in [day-ahead markets](https://www.next-kraftwerke.com/knowledge/day-ahead-trading-electricity). This helps with electricity demand, but does not guarantee that the energy mix powering Bitcoin mining is renewable. This is the larger share in the Texas experiment.
     
@@ -104,7 +104,7 @@ This is still preferable, minerals and metals, unlike fossil fuels, allowing for
 
 There is so much to learn from some of the applications Bitcoin has pioneered at scale in the area of renewable energy, grid demand management and stranded energy distributed computing. Bitcoin's absolute social utility is debatable, as I discussed in a previous post. But its relative social utility is clearer: there are surely many more socially beneficial applications of computing, and the models of greener distributed computing pioneered by Bitcoin could be harnessed for such applications too.
 
-As an example, there is an ongoing project aimed at \[discovering causal relationships among human genes to improve drug repositioning\](http://A Computing System for Discovering Causal Relationships Among Human Genes to Improve Drug Repositioning). Instead of running on a single supercomputer, it is distributing the compute task across a huge network grid of small computers, and has itself raised the possibility of being able to power this network from distributed renewable power generation, although not yet taken steps to make it happen.
+As an example, there is an ongoing project aimed at [discovering causal relationships among human genes to improve drug repositioning](https://ieeexplore.ieee.org/abstract/document/9224179). Instead of running on a single supercomputer, it is distributing the compute task across a huge network grid of small computers, and has itself raised the possibility of being able to power this network from distributed renewable power generation, although not yet taken steps to make it happen.
 
 If projects such as these, or other [volunteer distributed computing](https://www.researchgate.net/profile/Tessema-Mengistu/publication/332333249_Survey_and_Taxonomy_of_Volunteer_Computing/links/5cba1d5ca6fdcc1d49a10273/Survey-and-Taxonomy-of-Volunteer-Computing.pdf) projects could be repurposed to run as demand response mechanisms, the benefits could be planetary.
 
