@@ -16,11 +16,17 @@ There is however a caveat, which is seldom accounted for in the literature and m
 
 ![October | 2009 | SciFun](https://tse4.mm.bing.net/th?id=OIP.g4S7q78ZniN3WM_2znjqeQAAAA&pid=Api#centerw150 align="center")
 
-Counter-intuitively, to balance supply and demand, many national grids replace each additional unit of electricity demand from renewable sources with coal and natural gas equivalents. So the renewable electricity consumed by your computing job, results in the same emissions as if it was powered by fossil fuels, since the grid will replace its additional energy demand at a later time with fossil fuels.
+Counter-intuitively, to balance supply and demand, many national grids replace each additional unit of electricity demand from renewable sources with coal and natural gas equivalents. As a recent White House report on the [Climate and Energy Implications of Crypto-Assets in the United States](https://www.whitehouse.gov/wp-content/uploads/2022/09/09-2022-Crypto-Assets-and-Climate-Report.pdf) summarises it:
 
-It is [now understood](https://docs.wind-watch.org/jorgenson2012.pdf) that there is not a one-to-one equivalence between fossil fuel energy and renewable energy emissions displacement, so you need extra renewable energy to displace the same amount of fossil fuel emissions. Consequently, there are two main ways to ensure that green computing powered by renewables would result in zero direct emissions on the main electricity grid:
+> As the amount of renewable sources is held constant, but electricity demand increases, additional fossil power will likely be dispatched. This displacement results in no net change or in increases in total global emissions through a process called leakage.
 
-* Using surplus renewable electricity that would otherwise be curtailed by the grid.
+So the renewable electricity consumed by your computing job, if it increases net electricity demand during "green hours" above the existing surplus energy, results in at least the same emissions as if it was powered by fossil fuels, since the grid will replace its additional energy demand with fossil fuels.
+
+What's more, it is [now understood](https://docs.wind-watch.org/jorgenson2012.pdf) that because of the leakage issue mentioned above, there is in fact not a one-to-one equivalence between fossil fuel energy and renewable energy emissions displacement, so you need extra renewable energy to displace the same amount of fossil fuel emissions. This means that swapping 1 terawatt of fossil fuel energy for 1 terawatt of renewable energy will not result in a 100% emissions displacement, so the like-for-like emissions of your "carbon-intelligent" computing job may still add up to net CO2 increases.
+
+Consequently, there are only two ways to ensure that green computing powered by renewables would result in zero direct emissions on the main electricity grid:
+
+* Using **only** surplus renewable electricity that would otherwise be curtailed by the grid.
     
 * Constructing or contracting for new renewable electricity sources to power additional consumption from computing.
     
