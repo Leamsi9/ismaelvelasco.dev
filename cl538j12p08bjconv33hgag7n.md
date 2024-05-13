@@ -2,7 +2,7 @@
 
 When you think about climate change, it's easy to feel fatalistic. Then again, fatalism comes easy to anyone who has had to start a new dev job, looked at their new codebase, and found themselves staring at the [Big Bad Ball of Mud](https://wiki.c2.com/?BigBallOfMud).
 
-![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1656871668427/HutQAtJDxW.png align="center")
+![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1656871668427/HutQAtJDxW.png?align="center")
 
 And when you read more about the connection between web development and climate change, it's easy to feel not just fatalistic, but guilty, seeing as the code you continuously deploy into the wild, the apps you lovingly (or frustratingly) maintain, the servers you consume, when added to the work of all your peers, account for [as many CO2 emissions](https://www.google.com/amp/s/www.ovoenergy.com/blog/green/the-carbon-footprint-of-the-internet/amp) as the whole of aviation industry!  
 
