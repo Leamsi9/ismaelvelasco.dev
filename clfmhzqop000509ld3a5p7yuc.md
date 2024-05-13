@@ -14,7 +14,7 @@ There is a lot of ongoing work in exploring ways to tie computing jobs to the ti
 
 There is however a caveat, which is seldom accounted for in the literature and messaging around carbon aware computing: *powering your computing on renewable energy is not necessarily enough to reduce its CO2 emissions*.
 
-![October | 2009 | SciFun](https://tse4.mm.bing.net/th?id=OIP.g4S7q78ZniN3WM_2znjqeQAAAA&pid=Api#centerw150 align="center")
+![October | 2009 | SciFun](https://tse4.mm.bing.net/th?id=OIP.g4S7q78ZniN3WM_2znjqeQAAAA&pid=Api#centerw150?align="center")
 
 Counter-intuitively, to balance supply and demand, many national grids replace each additional unit of electricity demand from renewable sources with coal and natural gas equivalents. As a recent White House report on the [Climate and Energy Implications of Crypto-Assets in the United States](https://www.whitehouse.gov/wp-content/uploads/2022/09/09-2022-Crypto-Assets-and-Climate-Report.pdf) summarises it:
 
